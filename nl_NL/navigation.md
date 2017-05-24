@@ -1,6 +1,8 @@
 [gimmick: math]()
 
 [Home](index.md)
+[Werkwijze](checklist.md)
+[Technical](technical.md)
 [Cases]()
 
 * # Cases
@@ -14,8 +16,8 @@
 * [Gezonde vrijwilliger 1](Volunteer1/case.md)
 * [Cochleair implantaat](CochleairImplantaat/case.md)
 * [Grijze categorie](Grijs/case.md)
+* [Gravida](Gravida/case.md)
 
-[Werkwijze](checklist.md)
-[Technical](technical.md)
+
 [Links](links.md)
 

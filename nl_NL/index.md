@@ -1,6 +1,6 @@
 # MRI Safety Case Studies
 
-## Inleiding lala
+## Inleiding
 
 Het doel van deze korte workshop is om aan de hand van een aantal cases een
 idee te krijgen van wat er nodig is om een goed advies aan de radioloog
@@ -38,6 +38,7 @@ Paul de Bruin & Wouter Teeuwisse
 1. [Gezonde vrijwilliger 1](Volunteer1/case.md)
 1. [Cochleair implantaat](CochleairImplantaat/case.md)
 1. [Grijze categorie](Grijs/case.md)
+1. [Gravida](Gravida/case.md)
 
 
 ## Colofon
