@@ -1,6 +1,6 @@
 # MRI Safety Case Studies
 
-## Inleiding
+## Inleiding lala
 
 Het doel van deze korte workshop is om aan de hand van een aantal cases een
 idee te krijgen van wat er nodig is om een goed advies aan de radioloog
