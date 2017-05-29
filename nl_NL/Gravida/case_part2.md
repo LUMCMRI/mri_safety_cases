@@ -5,7 +5,7 @@
 
 
 
-Hier onder vind je de digitale vragenlijst over mogelijke contra-indicaties en de aanvraag van het MRI-onderzoek.
+Hieronder vind je de digitale vragenlijst over mogelijke contra-indicaties en de aanvraag van het MRI-onderzoek.
 
 ![](Vragenlijst.png)
 ![](Aanvraag.png)
