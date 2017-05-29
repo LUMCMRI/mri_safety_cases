@@ -1,10 +1,10 @@
-# Neurovasculaire clip
+# Gravida scan met verrassing
 
 ## Advies
 
-* Mag op 1.5T en 3.0T.
-* Geen SAR-beperking.
-* Patiënt rustig laten bewegen.
-* Hoofd zoveel mogelijk in het midden van de gantry houden in verband met de
-  spatiële gradient.
+* veldsterkte 1.5 of 3T
+* geen speciale restricties in SAR nodig
+* moeder rustig laten bewegen in het magnetisch veld van de scanner
+* NB: Overleg met de radioloog op welke anatomische gebieden de focus van de diagnose zal liggen, gezien de afmetingen van de artefacten kan het nodig zijn om scans te optimaliseren voor reductie van metaal-artefacten.
+
 
