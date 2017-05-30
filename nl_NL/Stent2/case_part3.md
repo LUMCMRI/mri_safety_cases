@@ -9,11 +9,11 @@ waaronder gescand mag worden bij de fabrikant.
 <br>
 <br>
 
-Vraag: Welke eisen stelt de fabrikant?
+**Vraag:** Welke eisen stelt de fabrikant?
 
 <br>
 
-Vraag: Wat doe je met de heupprothese?
+**Vraag:** Wat doe je met de heupprothese?
 
 <br>
 <br>
