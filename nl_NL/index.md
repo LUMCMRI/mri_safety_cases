@@ -50,3 +50,5 @@ Paul de Bruin & Wouter Teeuwisse
 * Deze case studies zijn uitgewerkt onder het beleid dat in het LUMC gevoerd
   wordt. Echter, deze uitwerkingen zijn alleen als voorbeeld en niet als richtlijn
   bedoeld.  
+
+  
