@@ -8,10 +8,11 @@ De vrijwilliger heeft een zogenaamde *sleeve* tattoo die een jaar geleden is
 gezet in een respectabele tattoo-shop in Nederland.
 ![](tattoo.jpg)
 
-Vraag: Zou je deze vrijwilliger mee laten doen aan de studie?
+<br>
 
-```
+**Vraag:** Zou je deze vrijwilliger mee laten doen aan de studie?
 
-```
+<br>
+<br>
 
 [Vervolg](case_part2.md)
