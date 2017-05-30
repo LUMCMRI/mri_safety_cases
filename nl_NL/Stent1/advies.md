@@ -2,7 +2,7 @@
 
 ## Advies
 
-**Let op**: De gebruikte stent is bedoeld voor toepassing in de iliacaal vaten. <br>
+**Let op:** De gebruikte stent is bedoeld voor toepassing in de iliacaal vaten. <br>
 Bij het opstellen van de MRI randvoorwaarden gaat de fabrikant er van uit dat de stent ook werkelijk iliacaal is geplaatst, maar in deze casus bevindt de stent zich in de schouderregio.
  
 * Mag op 1.5T en 3.0T.

@@ -10,13 +10,14 @@ vervangen en de stent is toegepast in het schoudergebied.
 <br>
 <br>
 
-Vraag: Wat is nu je advies aan de radioloog?
+**Vraag:** Wat is nu je advies aan de radioloog?
 
-Tip: Denk na over beperkingen aan bijvoorbeeld SAR en veldsterkte en lokatie
+<br>
+
+**Tip:** Denk na over beperkingen aan bijvoorbeeld SAR en veldsterkte en lokatie
 van de stent.
 
-```
-
-```
+<br>
+<br>
 
 [Advies](advies.md)

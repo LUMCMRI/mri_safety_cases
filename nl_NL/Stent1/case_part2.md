@@ -11,14 +11,14 @@ doorgegeven.
 <br>
 ___
 
-Tip: Overleg met je collega's voor je verder gaat.
+**Tip:** Overleg met je collega's voor je verder gaat.
+
+<br>
 
 **Vraag:** Heb je nu wel voldoende informatie om te kunnen beoordelen of de
 patiënt gescand kan worden en onder welke voorwaarden? Heb je nog beperkingen kunnen vinden?
 
-
-```
-
-```
+<br>
+<br>
 
 [Vervolg](case_part3.md)
