@@ -6,12 +6,15 @@
 deze *Conditional 5* is. Dit betekent dat je op zoek moet naar de eisen
 waaronder gescand mag worden bij de fabrikant.
 
+<br>
+<br>
+
 Vraag: Welke eisen stelt de fabrikant?
+
+<br>
 
 Vraag: Wat doe je met de heupprothese?
 
-```
-
-```
-
+<br>
+<br>
 [Vervolg](case_part4.md)
