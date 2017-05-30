@@ -4,6 +4,5 @@
 
 * 1.5T
 * Processor verwijderen
-* Magneet goed laten vastzetten met een drukverband 
-* TODO uitwerken
+* Magneet van het implantaat goed laten opsluiten met een drukverband 
 

@@ -10,7 +10,7 @@ Als het goed is heb je aardig wat documenten gevonden over dit implantaat.
 
 ![](cochleair_2.png)
 
-Vraag: Hierboven staat informatie uit Canada en uit
-Nederland. Wat is je advies?
+Vraag: Hierboven staat informatie uit Canada (links) en uit
+Nederland (rechts). Wat is je advies?
 
 [Advies](advies.md)
