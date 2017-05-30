@@ -6,11 +6,10 @@ Je wordt gebeld door de MRI laboranten. Zij hebben een zwangere mevrouw in de sc
 Op de scout/survey zien zij een viertal artefacten en zij vragen zich af of moeder en kind wel veilig gescand kunnen worden.
 ![](survey_all.png)
 
-Vraag: Wat is je eerste reactie? Kan deze patiënt gescand worden? 
+**Vraag:** Wat is je eerste reactie? Kan deze patiënt gescand worden? 
 
-```
-
-```
+<br>
+<br>
 
 [Vervolg](case_part2.md)
 

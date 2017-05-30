@@ -2,7 +2,6 @@
 
 ## Informatie via internet
 
-
 Wanneer je zoekt op 'Rodeck Shunt' is een directe verwijzing naar een fabrikant niet zomaar te vinden.
 Wel krijg je een aantal hits waaruit blijkt dat de naam van de shunt verwijst naar Dr. Rodeck die in de jaren '80 shunting van de foetale blaas ontwikkelde.<br>
 
@@ -17,11 +16,9 @@ Zie bijvoorbeeld onderstaande links en zoek evt in het document naar de naam Rod
 <br>
 <br>
 
-Vraag: welk merk/type shunt denk je dat is toegepast?
+**Vraag:** welk merk/type shunt denk je dat is toegepast?
 
-
-```
-
-```
+<br>
+<br>
 
 [Vervolg](case_part5.md)

@@ -58,10 +58,9 @@ Duur: mm minuten*
 
 
 Zoek op het internet informatie over de toegepaste shunts.  
-Vraag: kunnen moeder en kind veilig gescand worden en zo ja, welke speciale maatregelen moeten daarbij eventueel genomen worden?
+**Vraag:** kunnen moeder en kind veilig gescand worden en zo ja, welke speciale maatregelen moeten daarbij eventueel genomen worden?
 
-```
-
-```
+<br>
+<br>
 
 [Vervolg](case_part4.md)
