@@ -10,9 +10,8 @@
   scanner of de rest van het lichaam is.
 * Patiënt goed instrueren over mogelijke opwarming.
 
-```
+<br>
+<br>
 
-```
-
-Vraag: Patiënt wordt in bed aangemeld en blijkt niet-communicatief te zijn. Wat doe je
+**Vraag:** Patiënt wordt in bed aangemeld en blijkt niet-communicatief te zijn. Wat doe je
 nu?
