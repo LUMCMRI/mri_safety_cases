@@ -2,10 +2,14 @@
 
 ## Extra informatie
 ![](OLE_hero.png)
-
-Bij het uitzoeken blijkt het niet om een coronaire stent te gaan maar om een
-vasculaire stent. Informatie kan soms schaars zijn. Misschien is het verkeerd
+Bij het uitzoeken blijkt het niet om een coronaire stent te gaan maar om een perifeer 
+vasculair stent. Informatie kan soms schaars zijn. Misschien is het verkeerd
 doorgegeven.
+<br>
+<br>
+<br>
+<br>
+___
 
 Tip: Overleg met je collega's voor je verder gaat.
 
