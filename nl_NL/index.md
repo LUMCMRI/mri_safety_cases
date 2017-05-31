@@ -37,7 +37,6 @@ Paul de Bruin & Wouter Teeuwisse
 1. [Fixateur Externe](FixateurExterne/case.md)
 1. [Gezonde vrijwilliger 1](Volunteer1/case.md)
 1. [Gravida](Gravida/case.md)
-1. [Grijze categorie](Grijs/case.md)
 1. [Ketenreconstructie](Ketenreconstructie/case.md)
 1. [Luchtbukskogel](Kogel/case.md)
 1. [Metaalfragment](Fragment/case.md)

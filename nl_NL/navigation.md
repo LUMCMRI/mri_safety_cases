@@ -12,7 +12,6 @@
 * [Fixateur Externe](FixateurExterne/case.md)
 * [Gezonde vrijwilliger 1](Volunteer1/case.md)
 * [Gravida](Gravida/case.md)
-* [Grijze categorie](Grijs/case.md)
 * [Ketenreconstructie](Ketenreconstructie/case.md)
 * [Luchtbukskogel](Kogel/case.md)
 * [Metaalfragment](Fragment/case.md)

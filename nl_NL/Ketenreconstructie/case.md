@@ -2,11 +2,15 @@
 
 ## Inleiding
 
-Aanvraag: Patient (man, 58 jaar, geen andere contra-indicaties) heeft een
+**Aanvraag:** Patient (man, 58 jaar, geen andere contra-indicaties) heeft een
 operatie aan het middenoor gehad in 2006. Het verslag staat hieronder. De
 aanvraag is voor een MRI Brein op 3T.
 ![](tuebingen.jpg)
 
+<br>
+ 
+Hieronder zie je het O.K. verslag:
+<br>
 ```
 Pre-operatieve diagnose :
 Post-operatieve diagnose :
@@ -31,11 +35,12 @@ geplaatst en wordt met gelfoam het trommelvlies teruggeklapt.
 Plaatsen tampon. Pleister. Verband.
 ```
 
-Vraag: Kan deze patiënt gescand worden en zo ja, onder welke voorwaarden?
+<br>
+<br>
 
-```
+**Vraag:** Kan deze patiënt gescand worden en zo ja, onder welke voorwaarden?
 
-```
-
+<br>
+<br>
 
 [Vervolg](case_part2.md)

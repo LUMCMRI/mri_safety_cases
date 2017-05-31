@@ -8,25 +8,11 @@ toestaat dat iemand met deze fixateur externe een MRI-scan kan ondergaan.
 <br>
 <br>
 
-**Vraag:** Onder welke voorwaarden mag een patiënt met deze fixateur externe
-gescand worden?
+**Vraag:** Welke voorwaarde lijkt het grootste probleem op te leveren?
 
 <br>
 
-**Vraag:** Hieronder staat een lijstje met de apparatuur waar het onderzoek op
-gedaan zou kunnen worden. Welk advies zou je geven?
-
-<br>
-<br>
-
-Beschikbare apparatuur:
-
-1. 1.5T Philips Ingenia met de volgende spoelen:
-   - Receive only head
-   - Receive only body
-1. 3.0T Philips Achieva
-   - Receive-only 32-channel head
-   - Transmit-Receive head coil (kwadratuur)
+**Vraag:** Waarom wordt deze eis door de fabrikant gesteld?
 
 <br>
 <br>
