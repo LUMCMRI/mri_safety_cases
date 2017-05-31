@@ -11,13 +11,17 @@ lijken in ieder geval twee types te zijn:
 Ook is er een lijst van typenummers te vinden van Sugita die safe zijn met een
 statement over de gebruikte materialen. 
 
-Vraag: Probeer scherp te krijgen wat elke brochure zegt over veiligheid
+<br>
+<br>
+
+**Vraag:** Probeer scherp te krijgen wat elke brochure zegt over veiligheid
 (interactie met het statische veld, opwarming etc.). Zijn er verschillen?
 
-Vraag: Wat is nu je advies? Hangt dat nog af van het materiaal?
+<br>
 
-```
+**Vraag:** Wat is nu je advies? Hangt dat nog af van het materiaal?
 
-```
+<br>
+<br>
 
 [Advies](advies.md)

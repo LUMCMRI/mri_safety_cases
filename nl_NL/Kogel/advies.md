@@ -2,6 +2,16 @@
 
 ## Advies
 
+Alvorens advies te geven hebben we de Röntgen-opnamen in detail bekeken en
+geconstateerd dat het kogeltje een karakteristieke diabolo vorm heeft.
+<br>
+Bij een uitgebreide gang langs internet leveranciers van luchtbuks ammunitie
+vonden we alleen maar diabolo-vormige kogeltjes die van lood zijn gemaakt.
+Kogeltjes die niet van lood zijn hadden allemaal een andere vorm (bijvoorbeeld:
+kogeltjes bedoeld voor de schiettent op de kermis kunnen van staal zijn met koper coating, maar die zijn rond van vorm).
+
+<br>
+<br>
 Hieronder volgt het advies dat wij aan het aanvragende ziekenhuis hebben
 gegeven:
 

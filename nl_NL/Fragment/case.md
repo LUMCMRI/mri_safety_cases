@@ -7,10 +7,12 @@ alle metaalresten verwijderd. De aanvraag is voor een whole-body scan op 3T.
 De patiënt doet mee in een studie waar de MRI een belangrijk onderdeel van is.
 Zonder de MRI kan de patiënt niet geïncludeerd worden.
 
-Vraag: Wat doe je? 
+<br>
+<br>
 
-```
+**Vraag:** Wat doe je? 
 
-```
+<br>
+<br>
 
 [Vervolg](case_part2.md)
