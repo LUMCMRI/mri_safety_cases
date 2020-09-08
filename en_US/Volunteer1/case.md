@@ -1,6 +1,6 @@
 # Gezonde vrijwilliger 1
 
-## Inleiding
+## Introduction
 
 Iemand wil meedoen aan een wetenschappelijke MRI studie als gezonde
 vrijwilliger (vrouw, 30 jaar). Het gaat om een 3T fMRI-onderzoek van het brein.
