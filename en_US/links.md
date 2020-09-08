@@ -1,12 +1,12 @@
 # MRI Safety Links
 
-## Algemeen
+## General
 
 1. [MRISafety.com](http://mrisafety.com)
 <br>
 <br>
 
-## Fabrikanten
+## Manufacturers
 
 1. [Abbott](http://www.abbottvascular.com)
 1. [Med-El](http://www.medel.com/int/show4/index/id/1468/title/SYNCHRONY/#prettyPhoto/0/)
@@ -16,16 +16,16 @@
 <br>
 <br>
 
-## Commerciële opzoeksites
+## Commercial MRI safety sites
 
 1. [MagResource](http://www.magresource.com)
 <br>
 <br>
 
-## Literatuur
+## Literature
 
 1. Spin Dynamics: Basics of Nuclear Magnetic Resonance, *Second Edition*,
    Malcom H. Levitt, 2008.
-1. IEC 60601-2-33 (versie 2015) (Dit document is niet *vrij* beschikbaar en
-   kan daarom niet worden bijgevoegd).
+1. IEC 60601-2-33 (versie 2015) (This document is not freely available and therefore not attached
+
 
