@@ -1,21 +1,21 @@
 [gimmick: math]()
 
 [Home](index.md)
-[Werkwijze](checklist.md)
+[Methods](checklist.md)
 [Technical](technical.md)
 [Cases]()
 
 * # Cases
-* [Cochleair implantaat](CochleairImplantaat/case.md)
-* [Coronaire Stent 1](Stent1/case.md)
-* [Coronaire Stent 2](Stent2/case.md)
-* [Fixateur Externe](FixateurExterne/case.md)
-* [Gezonde vrijwilliger 1](Volunteer1/case.md)
+* [Cochlear Implant](CochleairImplantaat/case.md)
+* [Coronary Stent 1](Stent1/case.md)
+* [Coronary Stent 2](Stent2/case.md)
+* [External Fixator](FixateurExterne/case.md)
+* [Healthy Volunteer 1](Volunteer1/case.md)
 * [Gravida](Gravida/case.md)
-* [Ketenreconstructie](Ketenreconstructie/case.md)
-* [Luchtbukskogel](Kogel/case.md)
-* [Metaalfragment](Fragment/case.md)
-* [Neurovasculaire clip](Clip/case.md)
+* [Ossicular Chain Reconstruction](Ketenreconstructie/case.md)
+* [Airgun Pellet](Kogel/case.md)
+* [Metal Fragment](Fragment/case.md)
+* [Neurovascular Clip](Clip/case.md)
 
 
 [Links](links.md)
