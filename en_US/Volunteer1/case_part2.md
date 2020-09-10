@@ -1,17 +1,18 @@
-# Gezonde vrijwilliger 1
+# Healthy Volunteer 1
 
-## Deel 2
+## Part 2
 
-De onderzoeker van de studie meldt dat deze vrijwilliger specifiek
-geincludeerd is vanwege een bijzondere eigenschap. Er is veel aan gelegen deze
-persoon te includeren en te kunnen scannen.
-
-<br>
-<br>
-
-**Vraag:** Wat is nu je advies?
+The researcher in this study lets you know that this specific volunteer
+was included because she fulfills all the complicated inclusion criteria
+of the study. They really need this volunteer because controls are difficult
+to find in this particular study.
 
 <br>
 <br>
 
-[Vervolg](case_part3.md)
+**Question:** What is your advise?
+
+<br>
+<br>
+
+[Continue](case_part3.md)

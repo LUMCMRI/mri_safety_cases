@@ -1,5 +1,5 @@
-# Gezonde vrijwilliger 1
+# Healthy Volunteer 1
 
-## Deel 3
+## Part 3
 
-Tja.  Hier valt een hoop over te discussiëren. Kom maar op. 
+Hm This really is complicated. Take it to your RF specialist

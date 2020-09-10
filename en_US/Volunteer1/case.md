@@ -1,4 +1,4 @@
-# Gezonde vrijwilliger 1
+# Healthy Volunteer 1
 
 ## Introduction
 
