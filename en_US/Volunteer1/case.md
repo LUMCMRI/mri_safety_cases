@@ -2,17 +2,17 @@
 
 ## Introduction
 
-Iemand wil meedoen aan een wetenschappelijke MRI studie als gezonde
-vrijwilliger (vrouw, 30 jaar). Het gaat om een 3T fMRI-onderzoek van het brein.
-De vrijwilliger heeft een zogenaamde *sleeve* tattoo die een jaar geleden is
-gezet in een respectabele tattoo-shop in Nederland.
+A 30 year old woman wants to participate in a scientific study as a 
+healthy control. It's all about a 3T functional MRI scan of the brain.
+The volunteer has a so called sleeve tattoo she got about 1 year before
+in a respectable tattoo shop in your home country.
 ![](tattoo.jpg)
 
 <br>
 
-**Vraag:** Zou je deze vrijwilliger mee laten doen aan de studie?
+**Question:** Would you allow the volunteer to participate in this study?
 
 <br>
 <br>
 
-[Vervolg](case_part2.md)
+[Continue](case_part2.md)
