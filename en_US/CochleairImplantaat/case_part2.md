@@ -3,7 +3,7 @@
 ## Deel 2
 
 
-**Let op:** Heb je het goede type te pakken en de meest recente
+**Beware:** Heb je het goede type te pakken en de meest recente
 documentatie?
 
 Als het goed is heb je aardig wat documenten gevonden over dit implantaat.
