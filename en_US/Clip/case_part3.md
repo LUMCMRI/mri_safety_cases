@@ -21,8 +21,6 @@ with the static magnetic field, possible heating, switching magnetic field, etc.
 
 **Question:** Are there differences between documents?
 
-<br>
-
 **Question:** What is your advice now? Does it depend on the clip material?
 
 <br>
