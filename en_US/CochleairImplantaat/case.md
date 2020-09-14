@@ -9,7 +9,7 @@ Zoek op [MRISafety.com](http://www.mrisafety.com), bijvoorbeeld naar
 Zoek ook op internet naar dit implantaat. 
 
 
-**Vraag:** Kan dit onderzoek uitgevoerd worden op een 3T MRI-scanner?
+**Question:** Kan dit onderzoek uitgevoerd worden op een 3T MRI-scanner?
 
 <br>
 <br>
