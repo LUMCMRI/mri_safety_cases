@@ -8,7 +8,7 @@ Check [MRISafety.com](http://www.mrisafety.com), for example search the list for
 *cochlear nucleus*. Also try and search the internet directly for information about this implant. 
 
 
-**VrQuestiong:** Can this MRI examination take place on a 3T scanner?
+**Vraag:** Can this MRI examination take place on a 3T scanner?
 
 <br>
 <br>
