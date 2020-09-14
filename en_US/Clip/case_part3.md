@@ -12,10 +12,12 @@ There's also a list of type numbers of Sugita clips that are safe which also
 includes a statement about the materials used
 
 <br>
-<br>
 
 Try to clarify what each document tells about MRI safety (interaction
 with the static magnetic field, possible heating, switching magnetic field, etc.
+
+<br>
+<br>
 
 **Question:** Are there differences between documents?
 

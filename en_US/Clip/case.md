@@ -9,7 +9,7 @@ of the Neurovascular Center Antwerpen.
 
 <br>
 
-## The Case
+## The case
 
 A patient presents himself at the reception desk without a
 completed MRI-Safety questionnair. As requested by the MRI tech
@@ -21,8 +21,10 @@ that he once was "operated on the head" in your hospital.
 
 The requested MRI examination is a standard brain scan on a 3T scanner.
 
+<br>
+<br>
 
-**Question:** What is your first respons? Can this patient be scanned safely without precautions?
+**Question:** What is your first response? Can this patient be scanned safely without precautions?
 
 <br>
 <br>
