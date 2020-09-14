@@ -1,6 +1,6 @@
-# Cochleair Implantaat
+# Cochlear Implant
 
-## Inleiding
+## Introduction
 
 ![](cochlear_implant.jpg) Er wordt een 3T brein protocol aangevraagd. 
 Van de patiënt is bekend dat zij een Nucleus cochleair implantaat heeft, type CI422.
