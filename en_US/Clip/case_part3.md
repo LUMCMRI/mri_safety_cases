@@ -13,13 +13,10 @@ includes a statement about the materials used
 
 <br>
 
-Try to clarify what each document tells about MRI safety (interaction
+**Question:** Try to clarify what each document tells about MRI safety (interaction
 with the static magnetic field, possible heating, switching magnetic field, etc.
-
+ Are there differences between documents?
 <br>
-<br>
-
-**Question:** Are there differences between documents?
 
 **Question:** What is your advice now? Does it depend on the clip material?
 

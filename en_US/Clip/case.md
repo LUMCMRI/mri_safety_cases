@@ -18,7 +18,6 @@ No contra indications are presented but he makes the remark
 that he once was "operated on the head" in your hospital.
 
 <br>
-
 The requested MRI examination is a standard brain scan on a 3T scanner.
 
 <br>
