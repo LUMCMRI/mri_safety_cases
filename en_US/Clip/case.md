@@ -1,32 +1,33 @@
-# Neurovasculaire clip
+# Neurovascular clip
 
-## Introductie
+## Introduction
 
-Neurovasculaire clips worden onder andere gebruikt voor het 
-afklemmen van aneurysmata in het hoofd. Hoe dat er uitziet kan je
-bijvoorbeeld zien op deze [site](http://www.nvca.be/en/treatments/surgery_aneurysm)
-van het Neurovasculair Centrum Antwerpen.
+Neurovascular clips can be used in the treatment of aneurysms
+of intracranial arteries. Examples of what such a clip may look like 
+you can find on this site [site](http://www.nvca.be/en/treatments/surgery_aneurysm)
+of the Neurovascular Center Antwerpen.
+
+<br>
+
+## The Case
+
+A patient presents himself at the reception desk without a
+filled in MRI-Safety questionnair. As requested by the MRI tech
+he completes the questionnair in the changing cabinet.
+No contra indications are indicated except for the remark 
+that he was "operated on the head" in this hospital.
 
 <br>
 
-## De Casus
-
-De patiënt meldt zich bij de balie en heeft geen ingevulde
-MRI-veiligheidsvragenlijst bij zich. Deze wordt alsnog in het
-kleedkamertje ingevuld en de patiënt zegt een operatie aan het
-hoofd te hebben ondergaan in dit ziekenhuis. Er is geen andere
-contra-indicatie op het formulier aangegeven.
-
-<br>
-De aanvraag betreft een standaard breinprotocol op een 3T MRI-scanner.
-
-<br>
-<br>
-
-**Vraag:** Wat is je eerste reactie? Kan deze patiënt gescand worden? 
+The requested MRI examination is a standard brain scan on a 3T scanner.
 
 <br>
 <br>
 
-[Vervolg](case_part2.md)
+**Question:** What is your first respons? Can this patient be scanned safely without precautions? 
+
+<br>
+<br>
+
+[Continue](case_part2.md)
 

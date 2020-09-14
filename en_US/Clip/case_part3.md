@@ -1,27 +1,29 @@
-# Neurovasculaire clip
+# Neurovascular clip
 
-## Deel 3
+## Part 3
 
-Als het goed is heb je een aantal documenten over Sugita clips gevonden. Er
-lijken in ieder geval twee types te zijn: 
+You probably found a couple of documents about Sugita clips. At least, there
+appear to be two types of material these clips are made of:
 
-* Sugita clips gemaakt van Elgiloy (een legering)
-* Sugita clips gemaakt van titanium 
+* Sugita clips made of Elgiloy (an alloy)
+* Sugita clips made of titanium 
 
-Ook is er een lijst van typenummers te vinden van Sugita die safe zijn met een
-statement over de gebruikte materialen. 
-
-<br>
-<br>
-
-**Vraag:** Probeer scherp te krijgen wat elke brochure zegt over veiligheid
-(interactie met het statische veld, opwarming etc.). Zijn er verschillen?
-
-<br>
-
-**Vraag:** Wat is nu je advies? Hangt dat nog af van het materiaal?
+There's also a list of type numbers of Sugita clips that are safe which also
+includes a statement about the materials used
 
 <br>
 <br>
 
-[Advies](advies.md)
+Try to clarify what each document tells about MRI safety (interaction
+with the static magnetic field, possible heating, switching magnetic field, etc.
+
+**Question:** Are there differences between documents?
+
+<br>
+
+**Question:** What is your advice now? Does it depend on the clip material?
+
+<br>
+<br>
+
+[Advice](advice.md)
