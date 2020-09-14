@@ -8,3 +8,9 @@
 * Patient's head should be kept as close to the Z-axis as reasonably possible
   to avoid areas with a high spatial gradient of the main magnetic field
 
+
+## Links
+
+In The Netherlands, https://richtlijnendatabase.nl/richtlijn/gebruik_mri_bij_patienten_met_implantaten/mri_bij_cerebrale_aneurysmaclip.html
+
+
