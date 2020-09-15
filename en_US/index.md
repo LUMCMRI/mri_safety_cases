@@ -1,4 +1,4 @@
-# MRI Safety Case Studies
+# MRI Safety, case studies
 
 ## Introduction
 
@@ -7,7 +7,6 @@
 In this training a variaty of MRI safety cases is presented, all taken from
 clinical practice. The purpose is to get you aquainted with the process of 
 gathering proper information to formulate an underpinned MRI-safety advice
-
 For some cases the required information is readily provided, for other cases you'll need
 to visit the iternet to retrieve MRI-safety information, for example from 
 [MRISafety.com](http://mrisafety.com), or from the manufacturer's website.
