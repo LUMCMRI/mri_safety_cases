@@ -1,16 +1,17 @@
 # MRI Safety Case Studies
 
-## Inleiding
+## Introduction
 
 
 
-Het doel van deze korte workshop is om aan de hand van een aantal cases een
-idee te krijgen van wat er nodig is om een goed advies aan de radioloog
-te kunnen geven over het wel of niet kunnen scannen van bepaalde patiënten. 
-De bedoeling is dat je op Internet op zoek gaat naar informatie (bijvoorbeeld
-bij [MRISafety.com](http://mrisafety.com), maar ook bij de verschillende
-fabrikanten). Hierbij zul je snel merken dat dit niet altijd even eenvoudig
-is.
+In this training a variaty of MRI safety cases is presented, all taken from
+clinical practice. The purpose is to get you aquainted with the process of 
+gathering proper information to formulate an underpinned MRI-safety advice
+
+For some cases the required information is readily provided, for other cases you'll need
+to visit the iternet to retrieve MRI-safety information, for example from 
+[MRISafety.com](http://mrisafety.com), or from the manufacturer's website.
+No doubt you will sometimes find this can be quite a pain, similar to what it can be in practice.
 ![](Blij_bekkie.png)
 
 De cases zijn erg gevariëerd. Ze zijn samengesteld uit de vragen die wij de
