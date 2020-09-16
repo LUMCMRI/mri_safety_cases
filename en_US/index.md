@@ -13,41 +13,43 @@ to visit the iternet to retrieve MRI-safety information, for example from
 No doubt you will sometimes find this can be quite a pain, similar to what it can be in practice.
 ![](Blij_bekkie.png)
 
-De cases zijn erg gevariëerd. Ze zijn samengesteld uit de vragen die wij de
-afgelopen twee jaar hebben gekregen. Het is niet de bedoeling om je er in te
-laten stinken, alles komt uit de praktijk. 
+In some cases you may find a surprise. It is not that we want to trap you, it's 
+about cases that surprised us to and we experienced as educational. 
 
 
-Het stramien is simpel, elke case begint met de aanvraag en wat extra
-informatie. De bedoeling is dat je een gemotiveerd advies formuleert voor de
-radioloog over het wel (en onder welke voorwaarden) of niet kunnen scannen van
-de patiënt.
-Er zit geen speciale volgorde in de cases, je kunt overal beginnen. Probeer
-wel voordat je steeds verder gaat goed na te denken en de case uit te pluizen.
 
-Veel plezier en succes! 
+The format is simple. Each case starts with an MRI examination request and some additional information.
+In some cases the information provided will suffice, in other cases you will need to gather additional 
+information from MRI safety- or manufaturer's websites.
+It's then up to you to formulate a substantiated advice for the radiologist whether the patient can be scanned
+safely (and if required, under what conditions) or not.
+
+The cases are not presented in a specific order. In all cases the learning effect will be maximum 
+when you get to the bottom of things before hitting 'Continue'.
+
+
+Have fun! 
 
 Paul de Bruin & Wouter Teeuwisse
 
 ## Cases
 
-1. [Cochleair implantaat](CochleairImplantaat/case.md)
-1. [Coronaire Stent 1](Stent1/case.md)
-1. [Coronaire Stent 2](Stent2/case.md)
-1. [Fixateur Externe](FixateurExterne/case.md)
-1. [Gezonde vrijwilliger 1](Volunteer1/case.md)
+1. [Cochlear implant](CochleairImplantaat/case.md)
+1. [Coronary Stent 1](Stent1/case.md)
+1. [Coronary Stent 2](Stent2/case.md)
+1. [External Fixator](FixateurExterne/case.md)
+1. [Healthy Volunteer](Volunteer1/case.md)
 1. [Gravida](Gravida/case.md)
-1. [Ketenreconstructie](Ketenreconstructie/case.md)
-1. [Luchtbukskogel](Kogel/case.md)
-1. [Metaalfragment](Fragment/case.md)
-1. [Neurovasculaire clip](Clip/case.md)
+1. [Ossicular Chain Reconstruction](Ketenreconstructie/case.md)
+1. [Airgun Pellet](Kogel/case.md)
+1. [Metal Fragment](Fragment/case.md)
+1. [Neurovascular Clip](Clip/case.md)
 
 
 ## Colofon
 
-* Commentaar is welkom
-* Deze case studies zijn uitgewerkt onder het beleid dat in het LUMC gevoerd
-  wordt. Echter, deze uitwerkingen zijn alleen als voorbeeld en niet als richtlijn
-  bedoeld.  
+* Comments are appreciated, you can send those to w.m.teeuwisse@lumc.nl
+* These cases are analysed according to local protocol. We present them for training purposes only and not as guidelines.
+
 
   
