@@ -1,19 +1,19 @@
-# Cochleair Implantaat
+# Cochlear Implant
 
-## Deel 2
+## Part 2
 
 
-**Beware:** Heb je het goede type te pakken en de meest recente
-documentatie?
+**Beware:** Make sure the information you found concerns the exact brand, type and version as the device you are examining. 
+Also check it is the most recent information sheet.
 
-Als het goed is heb je aardig wat documenten gevonden over dit implantaat.
+If all went well you found several documents about this implant.
 
 ![](cochleair_2.png)
 
-**Vraag:** Hierboven staat informatie uit Canada (links) en uit
-Nederland (rechts). Wat is je advies?
+**Question:** Above you find the information for Canada (left) and The Netherlands (right)
+Suppose you work in The Netherlands, what would be your advice?
 
 <br>
 <br>
 
-[Advies](advies.md)
+[Advice](advies.md)

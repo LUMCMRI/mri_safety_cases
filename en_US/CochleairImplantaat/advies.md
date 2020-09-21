@@ -1,20 +1,18 @@
-# Cochleair implantaat
+# Cochleir implant
 
-# Advies
+# Advice
 
-* 1.5T
-* Processor verwijderen
-* Magneet van het implantaat goed laten opsluiten met een drukverband 
+* Field strength = 1.5T
+* Remove the external Processor unit prior to entering the MRI suite
+* Bandaging is required, apply according to manufacturer's instructions. 
 
 <br>
 <br>
 
-**Bonus:** Ook de firma Med-El maakt Cochlear Implants. Met hun Synchrony model
-leveren zij een CI waarvan zij stellen *'With SYNCHRONY, you can have a high-resolution
-3.0 T MRI of any part of your body at any time. It’s a routine procedure and you can
-go back to using your audio processor right away after your MRI.'*, zie
+**Bonus:** The Med-El company also produces cochlear implants. About their Synchrony implants they state
+ *'Both SYNCHRONY and SYNCHRONY 2 can safely undergo MRIs at either 1.5 and 3.0 Tesla*,
+ without the magnet needing to be surgically removed.'*, see
 [hier](http://www.medel.com/cochlear-implants-mri-safety/).
-Med-El promoot deze MRI-veilige CI met te wijzen op het ontwerp en positionering van
-de ingebouwde magneet.<br>
-**Vraag:** Bekijk het volgende [filmpje](http://www.medel.com/int/show4/index/id/1468/title/SYNCHRONY/#prettyPhoto/0/)
-en bedenk of dit implantaat inderdaad veilig is op alle scanners onder alle omstandigheden.
+Med-El promotes these MRI safe CI's by pointing out the design and positioning of the internal magnet.<br>
+**Question:** Watch the [movie](http://www.medel.com/int/show4/index/id/1468/title/SYNCHRONY/#prettyPhoto/0/)
+and think about whether this implant indeed is save under all circumstances. In this, do not forget about patient position and orientation
