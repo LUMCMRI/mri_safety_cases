@@ -1,16 +1,15 @@
 
-# Technische achtergrond
+# Technical beackground information
 
-## Veldsterkte en frequentie
+## Fieldstrength and frequencies
 
-Een overzicht van de verschillende gyromagnetische ratio's kun je
-[hier](https://en.wikipedia.org/wiki/Gyromagnetic_ratio) vinden. Voor protonen
-geldt dat de gyromagnetische ratio gelijk is aan 42.576 MHz/T. Hiermee komt de frequentie van 
-een 1.5T scanner op ongeveer 64 MHz uit, een 3T scanner op 128 MHz en een 7T scanner op 298 MHz.
+An overview of different gyromagnetic ratios you can find [here](https://en.wikipedia.org/wiki/Gyromagnetic_ratio).
+For protons the gyromagnetic ratio is 42.576 MHz/T, giving rise to a resonance frequency of about 64 MHz on a 1.5T, 
+128 MHz on a 3T and 298 MHz on a 7T scanner.
 <br>
 <br>
 
-## Golflengtes (in vacuum)
+## Wavelength (in vacuum)
 
 | Type of wave     | Typical frequency [Hz]  | Typical wavelength |
 |------------------|-------------------------|--------------------|
@@ -21,20 +20,21 @@ een 1.5T scanner op ongeveer 64 MHz uit, een 3T scanner op 128 MHz en een 7T sca
 | X-ray            | \\(~3 \times 10^{18}\\) | ~0.1 nm            |
 | \\(\gamma\\)-ray | \\(~3 \times 10^{20}\\) | ~1 pm              |
 
-Maximale energie-overdracht, en daarmee de kans op temperatuurstijging, vindt 
-plaats in objecten met een lengte = golflengte/2.<br>
-**Let op:** In weefsel is de golflengte korter vanwege dielectrische effecten.
-Met bijvoorbeeld de [Tissue property calculator](http://niremf.ifac.cnr.it/tissprop/htmlclie/htmlclie.php) kun je
-een idee krijgen van de golflengte in weefsels bij verschillende veldsterktes.
+Maximum energy transfer, and with that the chance of a temperature increase, takes place
+in objects with lenght = wavelength/2.<br>
+
+Beware: In tissue the wavelength can be considerably reduced due to dielectrical effects.
+To get an impression of the wavelength in tissue for different field strengths one can, 
+for example, use the [Tissue property calculator](http://niremf.ifac.cnr.it/tissprop/htmlclie/htmlclie.php)
 <br>
 <br>
 
 ## SAR
 
-SAR staat voor Specific Absorption Rate en geeft een indicatie van mogelijke
-opwarming van de persoon in de scanner. SAR wordt uitgedrukt in W/kg. 
+SAR stands for Specific Absorption Rate and expresses the amount of energy that is absorbed 
+each second in a specified amount of tissue. On your scanner you will mostly find SAR in Watts per kilogram or W/kg
 
-Volgens IEC60601-2-33 ed. 3 (2015-06) is de SAR gelimiteerd als volgt:
+According to the norm IEC60601-2-33 ed. 3 (2015-06) SAR limits are defined as follows:
 
 | Averaging time          | 6 minutes      |
 |-------------------------|----------------|------------------|----------|
@@ -46,9 +46,9 @@ Volgens IEC60601-2-33 ed. 3 (2015-06) is de SAR gelimiteerd als volgt:
 <br>
 <br>
 
-## Temperatuurlimieten
+## Temperature limits
 
-Volgens IEC60601-2-33 ed. 3 (2015-06) moet MRI-apparatuur de opwarming van de patiënt beperken tot de volgende waarden:
+According to IEC60601-2-33 ed. 3 (2015-06) the temperature in a patient undergoing an MRI examination is limited to:
 
 | Operating mode          | Maximum CORE TEMPERATURE (°C) | Maximum Local tissue temperature (°C) | Rise of CORE TEMPERATURE (°C) |
 | ----------------------- | ------------------------- | --------------------------------- | ------------------------    |
@@ -58,22 +58,25 @@ Volgens IEC60601-2-33 ed. 3 (2015-06) moet MRI-apparatuur de opwarming van de pa
 <br>
 <br>
 
-## Spatiële gradient
+## Spatial gradient
 
-In de eisen aan een implantaat wordt vaak ook een maximale spatiële gradient
-genoemd. Het gaat hier dan *niet* om het schakelen van de gradiënten van de
-scanner maar om het verloop van het \\(B_0\\)-veld in de ruimte, de zogeheten \\( \Delta B_0 \\).
-Van elke scanner is een plot beschikbaar met het verloop van dit hoofd-magnetisch veld. De kracht
-die op een implantaat werkt is ruwweg proportioneel met \\( B_0 \times \Delta B_0 \\).
-De spatiële gradient wordt uitgedrukt in de eenheid T/m, maar Gauss/cm wordt ook wel gebruikt.
-Voor het omrekenen geldt dat 100 G/cm gelijk is aan 1 T/m.
+In the safety information of the implant manufacturer one often finds a limit for the spatial gradient.
+This is not about the gradient system of the scanner but about the change of the main magnetic field strength \\(B_0\\) in space:
+when moving around or inside the magnet the field strength will be different from location to location. 
+Between any two points in space there will be a gradual change (= gradient or \\( \Delta B_0 \\)) in field strength. 
+This gradient is expressed in Tesla per meter (T/m). The magnet pulling force on an object is proportional to
+ \\( B_0 \times \Delta B_0 \\) and in the user manual of your scanner you will find maps of \\( \Delta B_0 \\) and \\(B_0\\).
+
+In stead of the unit T/m one can also find the old unit Gauss per centimeter (G/cm). For conversion: 100 G/cm = 1 T/m.
+
 
 ![Horizontaal aanzicht](extra_materiaal/1_5_Ing_SpatGradHorz.png) 
 ![Verticaal aanzicht](extra_materiaal/1_5_Ing_SpatGradVert.png)  
-Horizontaal en verticaal aanzicht van de spatiële gradient in het hoofd-magnetisch veld van een Philips Ingenia CX 1.5 Tesla MRI-scanner.
+Top- and side-view of the main magnetic field spatial gradient of a Philips Ingenia CX 1.5 Tesla MRI-scanner.
+
 
 ![Horizontaal aanzicht](extra_materiaal/3_0_Ing_SpatGradHorz.png) 
 ![Verticaal aanzicht](extra_materiaal/3_0_Ing_SpatGradVert.png)  
-Horizontaal en verticaal aanzicht van de spatiële gradient in het hoofd-magnetisch veld van een Philips Ingenia CX 3.0 Tesla MRI-scanner.
+Top- and side-view of the main magnetic field spatial gradient of a Philips Ingenia CX 3.0 Tesla MRI-scanner.
 
 
