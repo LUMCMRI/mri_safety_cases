@@ -61,7 +61,7 @@ According to IEC60601-2-33 ed. 3 (2015-06) the temperature in a patient undergoi
 ## Spatial gradient
 
 In the safety information provided by the implant manufacturer one often finds a limit for the spatial gradient.
-This is not referring to the gradient system of the scanner but about the change of the main magnetic field strength B\_0 in space:
+This is not referring to the gradient system of the scanner but about the change of the main magnetic field strength B0 in space:
 when moving around or inside the magnet the field strength will be different from location to location. 
 Between any two points in space there will be a gradual change (= gradient or \\( \Delta B_0 \\)) in field strength. 
 This gradient is expressed in Tesla per meter (T/m). The magnet pulling force on an object is proportional to
@@ -79,5 +79,5 @@ Top- and side-view of the main magnetic field spatial gradient of a Philips Inge
 ![Verticaal aanzicht](extra_materiaal/3_0_Ing_SpatGradVert.png)  
 Top- and side-view of the main magnetic field spatial gradient of a Philips Ingenia CX 3.0 Tesla MRI-scanner.
 
-test for double backslash \\text\\
+test for single backslash \text\
 

@@ -1,8 +1,8 @@
 # An MRI safety question comes in. Then what?
 
-## Gather as much information as you can:
+### Gather as much information as you can:
 
-1. Patient/Healthy volunteer
+1. ####Patient/Healthy volunteer
    * What is inside the subject: medical, non-medical?
    * How did it get there: accident, medical procedure, what kind of procedure, what purpose?
    * Where and when: year, what hospital, country?
