@@ -1,7 +1,7 @@
 
 # Technical beackground information
 
-## Fieldstrength and frequencies
+## Field strength and frequencie
 
 An overview of different gyromagnetic ratios you can find [here](https://en.wikipedia.org/wiki/Gyromagnetic_ratio).
 For protons the gyromagnetic ratio is 42.576 MHz/T, giving rise to a resonance frequency of about 64 MHz on a 1.5T, 
@@ -79,4 +79,5 @@ Top- and side-view of the main magnetic field spatial gradient of a Philips Inge
 ![Verticaal aanzicht](extra_materiaal/3_0_Ing_SpatGradVert.png)  
 Top- and side-view of the main magnetic field spatial gradient of a Philips Ingenia CX 3.0 Tesla MRI-scanner.
 
+test for double backslash \\text\\
 
