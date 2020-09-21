@@ -1,32 +1,32 @@
-# Werkwijze
+# An MRI safety question comes in. Then what?
 
-Achterhaal zoveel mogelijk informatie:
+Gather as much information as you can:
 
-1. Patiënt/Gezonde vrijwilliger
-   * Wat zit er in de patiënt: niet-medisch en medisch?
-   * Hoe is het daar gekomen: ongeluk, operatie, welke procedure?
-   * Waar en wanneer: jaartal, welk ziekenhuis?
-1. Meer informatie: ziekenhuis en internet
-   * OK-rapport (fabrikant, model en type, afmetingen, procedure).
-   * Pre- en post-operatieve imaging (Röntgen, CT, MRI).
-   * Website van de fabrikant (welke materialen, afmetingen, vormen, mogelijke varianten).
-   * Probeer de bijsluiter te vinden.
-   * Zoek op [MRISafety.com](http://mrisafety.com) naar informatie en advies.
+1. Patient/Healthy volunteer
+   * What is inside the subject: medical, non-medical?
+   * How did it get there: accident, medical procedure, what kind of procedure, what purpose?
+   * Where and when: year, what hospital, country?
+1. More information: from hospital and internet
+   * Medical operation report (manufacturer, model and type, size, procedure).
+   * Pre- and post-operative imaging (X-ray, CT, MRI).
+   * Manufacturer's website: which materials, shape and size, possible variants.
+   *                         instructions for use and MRI safety information.
+   * Check [MRISafety.com](http://mrisafety.com) for information and possible advice.
 1. Scanner/Protocol
-   * Welk protocol wordt aangevraagd?
-   * Op welke scanner moet het onderzoek worden uitgevoerd?
-   * Welke lokale, protocol of scanner-specifieke zaken kunnen van belang zijn?
+   * What type of examination is requested?
+   * On which scanner should the examination be executed?
+   * What scanner or protocol specific issues require special attention?
      * SAR
-     * Schakelende gradiënten
-     * Magnetisch veld en spatiële gradient
-     * Geluid
-     * Kan het implantaat een artefact veroorzaken? Is dit relevant voor het
-       aangevraagde onderzoek? 
-1. En dan?
-   * Afhankelijk van wat je hebt kunnen vinden, ervaring en of het om een
-     simpel of ingewikkeld geval gaat:
-     * Ja (en onder welke condities)
-     * Nee
-     * Meer informatie of hulp nodig van een expert
+     * Switching gradient fields
+     * Static magnetic field strength and spatial gradient
+     * Noise or sound pressure level
+     * Can the implant generate image artefacts and if so, are they relevant for the requested examination? 
+1. Then formulate your advice
+   * Depending on the information you found, your experience and whether it is a simple or complicated case it can be:
+     * MRI safe, our subject can savely be scanned without special conditions
+     * MRI conditional, our subject can safely be scanned under the following conditions. Then state all conditions that need to be fulfilled
+     * MRI unsafe, our subject cannot be safely scanned. 
+     * Last but not least: More information is required, state what information
+     *                     Too complicated, let's call in an expert
 
 
