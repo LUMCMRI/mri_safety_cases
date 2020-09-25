@@ -1,12 +1,27 @@
-# Coronaire stent 1
+# Stent 1
 
-## Advies
+## Advice
 
-**Let op:** De gebruikte stent is bedoeld voor toepassing in de iliacaal vaten. <br>
-Bij het opstellen van de MRI randvoorwaarden gaat de fabrikant er van uit dat de stent ook werkelijk iliacaal is geplaatst, maar in deze casus bevindt de stent zich in de schouderregio.
+**Attention:** In the manufacturer's instructions two imaging areas are distinguised: above or below the umbilicus. 
+This distinction has to do with the coverage of the Radio Frequency (RF) transmit coil and whether the stent is exposed to RF energy (below umbilicus) or not (above umbilicus).
+ Because restrictions on maximum SAR and scan duration depend on RF exposure two sets of conditions are formulated and translated into anatomical location for practical implementation.
  
-* Mag op 1.5T en 3.0T.
-* Patiënt rustig op tafel leggen en stent zoveel mogelijk uit de buurt van de
-  gantry houden.
-* SAR maximaal 1 W/kg omdat de stent boven de navel zit.
-* Overwegen op 1.5T te scannen omdat 1 W/kg een beperkende factor kan zijn op 3.0T.
+Under normal conditions a patient with this type of stent can undergo an MRI scan of the neck with the more liberal conditions implemented. However, in the case presented here
+one should stick to the more strict regime because although the anatomical location is 'above umbilicus' the stent is directly exposed to the RF waves.
+
+
+
+
+
+
+
+
+
+
+Advice
+* Allowed on 1.5T or 3.0T.
+* Maximum whole body SAR 1 W/kg.
+* Maximum scan time 15 minutes.
+* Consider whether the SAR limitation is less restrictive on 1.5T as compared to 3T.
+* Consider whether imaging artefacts may hamper diagnosis due to the stent location. If so, 1.5T may be favourable.
+

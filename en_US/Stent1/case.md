@@ -1,27 +1,24 @@
-# Coronaire Stent 1
+# Stent
 
-## Introductie
+## Introduction
 
-**Aanvraag.**  MRI Hals op 3T. Patiënt (man, 50 jaar, geen andere
-contraindicaties) heeft een stent van type Omnilink (Abbott, maat 10/28).
-Geplaatst in ander ziekenhuis in 2012.
-
-<br>
-<br>
-
-**Vraag:** Is dit voldoende informatie om te kunnen beoordelen of de patiënt
-gescand kan worden en onder welke voorwaarden? Zijn er door de fabrikant
-voorwaarden gesteld waaronder er wel of niet gescand kan worden?
-
-<br>
-
-**Tip:** Zoek eerst de stent op bij de fabrikant en
-[MRISafety.com](http://www.mrisafety.com) en kijk naar de voorwaarden
-voor je verder gaat.
+**Medical Request.**  MRI neck on 3T. Patient (man, age 50, no other
+MRI contra-indications) has a (coronairy) stent, type Omnilink (Abbott, size 10/28).
+This stent was placed in 2012 in another hospital.
 
 <br>
 <br>
 
-[Vervolg](case_part2.md)
+**Question:** Is this sufficient information to decide whether this patient can be safely scanned and 
+are there any special conditions or limitations required or formulated by the manufacturer?
+<br>
+
+**Hint:** Check out this stent on the manufacturer's website and on 
+[MRISafety.com](http://www.mrisafety.com) and check what conditions should be met.
+
+<br>
+<br>
+
+[Continue](case_part2.md)
 
 

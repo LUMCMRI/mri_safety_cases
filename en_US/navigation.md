@@ -7,7 +7,7 @@
 
 * # Cases
 * [Cochlear Implant](CochleairImplantaat/case.md)
-* [Coronary Stent 1](Stent1/case.md)
+* [Stent](Stent1/case.md)
 * [Coronary Stent 2](Stent2/case.md)
 * [External Fixator](FixateurExterne/case.md)
 * [Healthy Volunteer 1](Volunteer1/case.md)

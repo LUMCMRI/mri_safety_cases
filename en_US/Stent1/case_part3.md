@@ -1,23 +1,22 @@
-# Coronaire Stent 1
+# Stent 1
 
-## Nog meer informatie
+## Still more information
 
-De laborant die de aanvraag naar jou heeft doorgestuurd heeft navraag gedaan bij het
-ziekenhuis waar de stent is geplaatst. De patiënt heeft een operatie ondergaan
-waarbij een stuk ader uit het been is gebruikt om een ader in de schouder te
-vervangen en de stent is toegepast in het schoudergebied. 
+The MRI-tech that approached you for advice did some digging to get a complete picture of the medical procedure the patient underwent.
+The operation report states that part of a vein taken from the leg was used to replace a vein in the shoulder. The stent was applied in the shoulder area. 
 
-<br>
-<br>
-
-**Vraag:** Wat is nu je advies aan de radioloog?
-
-<br>
-
-**Tip:** Denk na over beperkingen aan bijvoorbeeld SAR en veldsterkte en lokatie
-van de stent.
 
 <br>
 <br>
 
-[Advies](advies.md)
+**Question:** What is your advice to the radiologist?
+
+<br>
+
+**Hint:** You may want to reflect on, for example, SAR limitations, fieldstrength, the intended use of the stent and where it is applied.
+
+
+<br>
+<br>
+
+[Advice](advies.md)

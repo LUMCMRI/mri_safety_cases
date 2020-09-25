@@ -35,7 +35,7 @@ Paul de Bruin & Wouter Teeuwisse
 ## Cases
 
 1. [Cochlear implant](CochleairImplantaat/case.md)
-1. [Coronary Stent 1](Stent1/case.md)
+1. [Stent 1](Stent1/case.md)
 1. [Coronary Stent 2](Stent2/case.md)
 1. [External Fixator](FixateurExterne/case.md)
 1. [Healthy Volunteer](Volunteer1/case.md)
