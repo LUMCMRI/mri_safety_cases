@@ -10,9 +10,8 @@
 <br>
 
 **Bonus:** The Med-El company also produces cochlear implants. About their Synchrony implants they state
- *'Both SYNCHRONY and SYNCHRONY 2 can safely undergo MRIs at either 1.5 and 3.0 Tesla*,
- without the magnet needing to be surgically removed.'*, see
-[here](http://www.medel.com/cochlear-implants-mri-safety/).
+ *'Both SYNCHRONY and SYNCHRONY 2 can safely undergo MRIs at either 1.5 and 3.0 Tesla,
+ without the magnet needing to be surgically removed.'*, see [here](http://www.medel.com/cochlear-implants-mri-safety/).
 Med-El promotes these MRI safe CI's by pointing out the design and positioning of the internal magnet.
 <br>
 <br>
