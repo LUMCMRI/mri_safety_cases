@@ -13,15 +13,16 @@ For protons the gyromagnetic ratio is 42.576 MHz/T, giving rise to a resonance f
 
 | Type of wave     | Typical frequency [Hz]  | Typical wavelength |
 |------------------|-------------------------|--------------------|
-| Radio            | ~10^8  (100 MHz)        | ~ 3 m               |
-| Microwave        | ~10^10 ( 10 GHz)        | ~ 3 cm              |
-| Infrared         | ~ 3 times 10^{13}       | ~10 micro m     |
-| Ultraviolet      | ~ 3 times 10^{16}       | ~10 nm             |
-| X-ray            | ~ 3 times 10^{18}       | ~ 0.1 nm            |
-| \\(\gamma\\)-ray | ~ 3 times 10^{20}       | ~ 1 pm              |
+| Radio            | ~10^8  (100 MHz)        | ~ 3 m              |
+| Microwave        | ~10^10 ( 10 GHz)        | ~ 3 cm             |
+| Infrared         | ~ 3 times 10^13         | ~10 micro m        |
+| Ultraviolet      | ~ 3 times 10^16         | ~10 nm             |
+| X-ray            | ~ 3 times 10^18         | ~ 0.1 nm           |
+| gamma-ray        | ~ 3 times 10^20         | ~ 1 pm             |
 
 Maximum energy transfer, and with that the chance of a temperature increase, takes place
-in objects with lenght = wavelength/2.<br>
+in objects with lenght = wavelength/2.
+<br>
 <br>
 Attention: In tissue the wavelength can be considerably reduced due to dielectrical effects.
 To get an impression of the wavelength in tissue for different field strengths one can, 
@@ -66,7 +67,6 @@ when moving around or inside the magnet the field strength will be different fro
 Between any two points in space there will be a gradual change (= gradient or Delta B_0) in field strength. 
 This gradient is expressed in Tesla per meter (T/m). The magnet pulling force on an object is proportional to
  (B_0) * (Delta B_0) and in the user manual of your scanner you will find maps of both Delta B_0 and B_0.
-
 In stead of the unit T/m one can also find the old unit Gauss per centimeter (G/cm). For conversion: 100 G/cm = 1 T/m.
 
 
