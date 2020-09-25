@@ -13,7 +13,7 @@ For protons the gyromagnetic ratio is 42.576 MHz/T, giving rise to a resonance f
 
 | Type of wave     | Typical frequency [Hz]  | Typical wavelength |
 |------------------|-------------------------|--------------------|
-| Radio            | ~10^ 8 (100 MHz)        | ~3 m               |
+| Radio            | ~10^8  (100 MHz)        | ~3 m               |
 | Microwave        | ~10^10 ( 10 GHz)        | ~3 cm              |
 | Infrared         | ~ 3 times 10^{13}       | ~10 \\(\mu\\)m     |
 | Ultraviolet      | ~ 3 times 10^{16}       | ~10 nm             |
@@ -22,10 +22,10 @@ For protons the gyromagnetic ratio is 42.576 MHz/T, giving rise to a resonance f
 
 Maximum energy transfer, and with that the chance of a temperature increase, takes place
 in objects with lenght = wavelength/2.<br>
-
+<br>
 Beware: In tissue the wavelength can be considerably reduced due to dielectrical effects.
 To get an impression of the wavelength in tissue for different field strengths one can, 
-for example, use the [Tissue property calculator](http://niremf.ifac.cnr.it/tissprop/htmlclie/htmlclie.php)
+for example, use the [Tissue property calculator](http://niremf.ifac.cnr.it/tissprop/htmlclie/htmlclie.php): under ALL TISSUES, SINGLE FREQUENCY enter the correct frequency and click Go!.
 <br>
 <br>
 
