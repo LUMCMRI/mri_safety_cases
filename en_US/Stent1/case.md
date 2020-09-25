@@ -11,6 +11,7 @@ This stent was placed in 2012 in another hospital.
 
 **Question:** Is this sufficient information to decide whether this patient can be safely scanned and 
 are there any special conditions or limitations required or formulated by the manufacturer?
+
 <br>
 <br>
 <br>
