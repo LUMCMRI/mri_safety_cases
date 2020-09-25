@@ -23,7 +23,7 @@ For protons the gyromagnetic ratio is 42.576 MHz/T, giving rise to a resonance f
 Maximum energy transfer, and with that the chance of a temperature increase, takes place
 in objects with lenght = wavelength/2.<br>
 <br>
-Beware: In tissue the wavelength can be considerably reduced due to dielectrical effects.
+Attention: In tissue the wavelength can be considerably reduced due to dielectrical effects.
 To get an impression of the wavelength in tissue for different field strengths one can, 
 for example, use the [Tissue property calculator](http://niremf.ifac.cnr.it/tissprop/htmlclie/htmlclie.php): under ALL TISSUES, SINGLE FREQUENCY enter the correct frequency and click Go!.
 <br>
