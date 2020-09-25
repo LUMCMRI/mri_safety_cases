@@ -13,12 +13,12 @@ For protons the gyromagnetic ratio is 42.576 MHz/T, giving rise to a resonance f
 
 | Type of wave     | Typical frequency [Hz]  | Typical wavelength |
 |------------------|-------------------------|--------------------|
-| Radio            | ~10^8  (100 MHz)        | ~3 m               |
-| Microwave        | ~10^10 ( 10 GHz)        | ~3 cm              |
-| Infrared         | ~ 3 times 10^{13}       | ~10 \\(\mu\\)m     |
+| Radio            | ~10^8  (100 MHz)        | ~ 3 m               |
+| Microwave        | ~10^10 ( 10 GHz)        | ~ 3 cm              |
+| Infrared         | ~ 3 times 10^{13}       | ~10 micro m     |
 | Ultraviolet      | ~ 3 times 10^{16}       | ~10 nm             |
-| X-ray            | ~ 3 times 10^{18}       | ~0.1 nm            |
-| \\(\gamma\\)-ray | ~ 3 times 10^{20}       | ~1 pm              |
+| X-ray            | ~ 3 times 10^{18}       | ~ 0.1 nm            |
+| \\(\gamma\\)-ray | ~ 3 times 10^{20}       | ~ 1 pm              |
 
 Maximum energy transfer, and with that the chance of a temperature increase, takes place
 in objects with lenght = wavelength/2.<br>
@@ -36,8 +36,8 @@ each second in a specified amount of tissue. On your scanner you will mostly fin
 
 According to the norm IEC60601-2-33 ed. 3 (2015-06) SAR limits are defined as follows:
 
-| Averaging time          | 6 minutes      |
-|-------------------------|----------------|------------------|----------|
+| Averaging time          | 6 minutes                                                         |
+|-------------------------|-----------------------|-------------------------|-----------------|
 |             Body region | Whole body SAR (W/kg) | Partial body SAR (W/kg) | Head SAR (W/kg) |
 | Operating mode          |                       |                         |                 |
 | NORMAL                  |  2                    |   2-10                  |  3.2            |
