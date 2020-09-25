@@ -16,14 +16,10 @@ interpretations or assumptions are made by all people involved, ourselves includ
 <br>
 <br>
 <br>
-___
-
-<br>
 
 **Question:** Do you now have adequate information to decide whether this patient can be safely scanned?
 Did you find any restrictions or MRI-safety conditions?
 
-<br>
 <br>
 
 [Continue](case_part3.md)
