@@ -1,5 +1,5 @@
 
-# Technical beackground information
+# Technical beackground information  2
 
 ## Field strength and frequency
 
@@ -15,15 +15,16 @@ For protons the gyromagnetic ratio is 42.576 MHz/T, giving rise to a resonance f
 |------------------|-------------------------|--------------------|
 | Radio            | ~10^8  (100 MHz)        | ~ 3 m              |
 | Microwave        | ~10^10 ( 10 GHz)        | ~ 3 cm             |
-| Infrared         | ~ 3 times 10^13         | ~10 micro m        |
-| Ultraviolet      | ~ 3 times 10^16         | ~10 nm             |
-| X-ray            | ~ 3 times 10^18         | ~ 0.1 nm           |
-| gamma-ray        | ~ 3 times 10^20         | ~ 1 pm             |
+| Infrared         | ~ 3 * 10^13             | ~10 micro m        |
+| Ultraviolet      | ~ 3 * 10^16             | ~10 nm             |
+| X-ray            | ~ 3 * 10^18             | ~ 0.1 nm           |
+| gamma-ray        | ~ 3 * 10^20             | ~ 1 pm             |
 
 Maximum energy transfer, and with that the chance of a temperature increase, takes place
 in objects with lenght = wavelength/2.
 <br>
 <br>
+
 Attention: In tissue the wavelength can be considerably reduced due to dielectrical effects.
 To get an impression of the wavelength in tissue for different field strengths one can, 
 for example, use the [Tissue property calculator](http://niremf.ifac.cnr.it/tissprop/htmlclie/htmlclie.php): under ALL TISSUES, SINGLE FREQUENCY enter the correct frequency and click Go!.
