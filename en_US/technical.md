@@ -25,9 +25,9 @@ in objects with lenght = wavelength/2.
 <br>
 <br>
 
-Attention: In tissue the wavelength can be considerably reduced due to dielectrical effects.
+**Attention: In tissue the wavelength can be considerably reduced due to dielectrical effects.
 To get an impression of the wavelength in tissue for different field strengths one can, 
-for example, use the [Tissue property calculator](http://niremf.ifac.cnr.it/tissprop/htmlclie/htmlclie.php): under ALL TISSUES, SINGLE FREQUENCY enter the correct frequency and click Go!.
+for example, use the [Tissue property calculator](http://niremf.ifac.cnr.it/tissprop/htmlclie/htmlclie.php): under ALL TISSUES, SINGLE FREQUENCY enter the correct frequency and click Go!.**
 <br>
 <br>
 
@@ -51,7 +51,7 @@ According to the norm IEC60601-2-33 ed. 3 (2015-06) SAR limits are defined as fo
 ## Temperature limits
 
 According to IEC60601-2-33 ed. 3 (2015-06) the temperature in a patient undergoing an MRI examination is limited to:
-
+<br>
 | Operating mode          | Maximum CORE TEMPERATURE (°C) | Maximum Local tissue temperature (°C) | Rise of CORE TEMPERATURE (°C) |
 | ----------------------- | ----------------------------- | ------------------------------------- | --------------------------    |
 | NORMAL                  |  39                           |  39                                   |  0.5                          |
