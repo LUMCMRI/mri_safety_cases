@@ -3,7 +3,7 @@
 ## Introduction
 
 **Medical Request.**  MRI neck on 3T. Patient (man, age 50, no other
-MRI contra-indications) has a (coronairy) stent, type Omnilink (Abbott, size 10/28).
+MRI contra-indications) has a coronairy stent, type Omnilink (Abbott, size 10/28).
 This stent was placed in 2012 in another hospital.
 
 <br>
