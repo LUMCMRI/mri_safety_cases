@@ -20,11 +20,11 @@ However, on their website Kurz states the implant is MRI conditional. This is a 
 
 * First go to Products > Otology > Tympanoplasty > Tuebingen Type Prostheses
 * Check the presence of the item you're looking for. Yes, the TTP-TUEBINGEN Total Prosthesis is there
-* Scroll down to *Oredering Information* and click TTP Tuebingen Type AERIAL Total Prosthesis. Here you find reference number 1004234 for the 3.0
+* Scroll down to *Ordering Information* and click TTP Tuebingen Type AERIAL Total Prosthesis. Here you find reference number 1004234 for the 3.0
 * In the top right corner of the web page you find a link to *MRI Information*, click it
 * From the MR-Information page you can download *MR_Information_en_Rev_07.pdf*, then open it
 * In section 1.1 check the table for reference number 1004234 to make sure the information also refers to the item you are investigating
-* Now don't fall for the trap that you stop when information seems complete. There is a referral to section 1.2 so please read it. Take the remark *Body coil only was used for testing as a worst-case assumption* into account and judge whether this may influence your advice
+* Now don't fall for the trap that you stop when information seems complete. There is a referral to section 1.2 so please read it. Take the remark *Body coil only was used for testing as a worst-case assumption* into account and judge whether this may affect your advice
 
 <br>
 <br>
