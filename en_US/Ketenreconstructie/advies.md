@@ -6,12 +6,12 @@
 * Maximum spatial gradient field of 30 T/m (3000 Gauss/cm)
 * Maximum whole body SAR of 2 W/kg (Normal Operating Mode)
 * Prevent patient from rapid head movement close to the scanner bore entrance
+<br>
 
-
-
-
-
-
-
-
-The latter advice is based on this [case report](https://www.researchgate.net/publication/277310096_Possible_hazardous_effect_of_MR_safe_metallicimplants_for_workers)
+The last remark is based on this [case report](https://www.researchgate.net/publication/277310096_Possible_hazardous_effect_of_MR_safe_metallicimplants_for_workers)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

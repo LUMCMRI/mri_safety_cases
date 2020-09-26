@@ -2,7 +2,7 @@
 
 ## Part 2
 
-**Attention:** When searching the internet for information on the *Kurs prosthesis*, as it was written in the operation report, 
+**Hint:** When searching the internet for information on the *Kurs prosthesis*, as it was written in the operation report, 
 results can be quite disappointing. Unfortunately the name was misspelled, it should have read *Kurz prosthesis*. 
 <br>
 This highlights another area where you as an MRI safety expert have to be on your guard: never take the information provided for granted.
@@ -14,6 +14,7 @@ A pro-active colleague calls the ENT department to check which Kurz prostheses t
 but consultation of the operation room department sheds light on the matter:
 for a total ossicular replacement prosthesis (TORP) a Kurz Aerial Total Tuebingen Titanium is used and 
 for a partial ossicular replacement prosthesis (PORP) they apply a Kurz Clip Partial Prosthesis Titanium (Dresden type)
+<br>
 <br>
 In the operation report it says *radical* ossicular chain reconstruction so we are dealing with a TORP here.
 <br>
