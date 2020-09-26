@@ -10,7 +10,7 @@
 * [Stent 1](Stent1/case.md)
 * [Stent 2](Stent2/case.md)
 * [External Fixator](FixateurExterne/case.md)
-* [Healthy Volunteer 1](Volunteer1/case.md)
+* [Healthy Volunteer](Volunteer1/case.md)
 * [Gravida](Gravida/case.md)
 * [Ossicular Chain Reconstruction](Ketenreconstructie/case.md)
 * [Airgun Pellet](Kogel/case.md)

@@ -1,46 +1,41 @@
-# Ketenreconstructie
+# Ossicular Chain Reconstruction
 
-## Inleiding
+## Introduction
 
-**Aanvraag:** Patient (man, 58 jaar, geen andere contra-indicaties) heeft een
-operatie aan het middenoor gehad in 2006. Het verslag staat hieronder. De
-aanvraag is voor een MRI Brein op 3T.
+**Medical request:** Patient (female, age 58, no other contra indications) underwent
+an operation on her middle ear in 2006. Requested MRI examination is a 3T scan of the brain.
+
 ![](tuebingen.jpg)
 
 <br>
  
-Hieronder zie je het O.K. verslag:
+Below you find the operation report:
 <br>
 ```
-Pre-operatieve diagnose :
-Post-operatieve diagnose :
-Therapie : ketenreconstructie radicaal links.
-Anaesthesie : algeheel.
+Pre-operatieve diagnosis :
+Post-operatieve diagnosis :
+Therapy : Ossicular Chain Reconstruction, radical left
+Anesthesia: general
 
-Positioneren patiënt. Steriel afdekken en werken via de gehoorgang. Dr. A.
-vangt aan met dr. B. Afschuiven tympanomeatale flap. Inspectie
-neomiddenoor. De vorige Kursprothese 4,25 lijkt te lang. Deze is door het
-trommelvlies heen gekomen. Inspectie voetplaat laat een twijfelachtige mobiele
-voetplaat zien. Er wordt vanuit tragus kraakbeen twee stukjes kraakbeen in de
-ovale nis geplaatst. Een stuk gelukte niet i.v.m. het fractuur van het
-kraakbeenstukje.
-Inspectie een kortere Kursprothese lijkt beter. Dr. C. neemt over van dr.
-A. M.b.v. de pasprotheses wordt gekeken en Kurs 3,0 lijkt een betere
-maat. Deze wordt geplaatst tussen de kraakbeentjes en de ovale nis.
-Vervolgens wordt kraakbeen gesneden, welke op de prothese wordt geplaatst. De
-prothese lijkt iets naar posterieur te kantelen. Deze wordt zover mogelijk
-naar anterieur verschoven. M.b.v. gelfoam wordt de prothese iets richting
-anterieur vast gezet. Vervolgens wordt het fascielapje onder het trommelvlies
-geplaatst en wordt met gelfoam het trommelvlies teruggeklapt.
-Plaatsen tampon. Pleister. Verband.
+Patient is positioned. Sterile covering, working through the ear canal. Dr. A. begins with Dr. B. 
+shearing tympanomeatal flap. Inspection of neo middle ear. The previous Kurs prosthesis 4.25 seems too long, 
+it penetrated through the eardrum. Footplate inspection reveals questionable footplate mobility. 
+From tragus cartilage two pieces of cartilage are placed in the oval window niche. One piece was unsuccessful 
+due to a fracture of the piece.
+Inspection, a shorter Kurs prosthesis seems better. Dr. C. takes over from Dr. A. 
+Using the fitting prostheses the Kurs 3.0 seems to be a better size. 
+This is placed between the cartilage pieces and the oval window niche. Cartilage is then cut, and placed on the prosthesis. 
+The prosthesis appears to tilt slightly posteriorly. It is shifted to anterior as far as possible. 
+Using gel foam, the prosthesis is fixed slightly anteriorly. The fascia flap is then placed under the 
+eardrum and the eardrum with gel foam is folded back. Tampon placed. Band Aid. Bandage. 
 ```
 
 <br>
 <br>
 
-**Vraag:** Kan deze patiënt gescand worden en zo ja, onder welke voorwaarden?
+**Question:** Can this patient be scanned safely and and if applicable, under what conditions?
 
 <br>
 <br>
 
-[Vervolg](case_part2.md)
+[Continue](case_part2.md)

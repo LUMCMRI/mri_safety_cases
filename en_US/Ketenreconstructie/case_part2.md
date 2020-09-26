@@ -1,28 +1,27 @@
-# Ketenreconstructie
+# Ossicular Chain Reconstruction
 
-## Deel 2
+## Part 2
 
-**Tip:** Als je voor het zoeken op internet de woorden *Kurs prothese* gebruikt, net als in het O.K. verslag, kan het zijn dat je niets vindt.
-In het verslag is de naam verkeerd gespeld, het moet 'Kurz' zijn. Dit illustreert op een heel andere manier dat je kritisch om moet gaan met de beschikbare gegevens ...
-
-<br>
-
-Een pro-actieve collega belt de KNO-afdeling om te vragen welke Kurz-prothese
-er precies gebruikt wordt. De KNO weet het ook niet zeker dus via navraag bij
-de OK komt het antwoord:
-
-*Voor een total ossicular replacement prosthesis (TORP) wordt een Kurz Aerial Total
-Tuebingen Titanium gebruikt en voor een partial ossicular replacement
-prosthesis (PORP) wordt een Kurz Clip Partial Prosthesis Titanium (Dresden type)
-gebruikt.*
+**Attention:** When searching the internet for information on the *Kurs prosthesis*, as it was written in the operation report, 
+results can be quite disappointing. Unfortunately the name was misspelled, it should have read *Kurz prosthesis*. 
+This highlights another area where you as an MRI safety expert have to be on your guard: never take the information provided for granted.
 
 <br>
 <br>
 
-**Vraag:** Kan deze patiënt gescand worden en zo ja, onder welke voorwaarden?
+A pro-active colleague calls the ENT department to check which Kurz prostheses they use. The ENT does not know for sure 
+but consultation of the operation room department sheds light on the matter:
+For a total ossicular replacement prosthesis (TORP) a Kurz Aerial Total Tuebingen Titanium is used and 
+for a partial ossicular replacement prosthesis (PORP) they apply a Kurz Clip Partial Prosthesis Titanium (Dresden type)
+<br>
+In the operation report it says *radical* ossicular chain reconstruction so we are dealing with a TORP here.
+<br>
+<br>
+
+**Question:** Can this patient be scanned safely and if applicable, under what conditions?
 
 <br>
 <br>
 
-[Vervolg](case_part3.md)
+[Continue](case_part3.md)
 

@@ -13,15 +13,15 @@ the person responsible is confronted with.
 You may use the case presented here to test yourself on weighing the pros and cons, balancing the risc on adverse effects against the justification 
 of performing an MRI scan. You may find a different outcome when considering the case for a healthy volunteer or for a patient that might benefit from a medical diagnosis.
 
-
+<br>
+<br>
 
 General information and a discussion on tattoos can be found [here](http://www.mrisafety.com/SafetyInformation_view.php?editid1=228).
 
-Below you find some publications on tattoos or the inks applied. This list is by no means intended as a scientific overview but more to 
-give you an idea of the (lack of) clarity on the matter.
-Some of these publications make excellent stuff for starting a discussion about MRI-caused interactions or to what extent the methods applied represent in vivo conditions.
+Below you find links to publications on tattoos or the inks applied. Some of the publications make excellent stuff for starting a discussion about 
+MRI-caused interactions or about to what extent the methods applied represent in vivo conditions.
+This list is by no means intended as a scientific overview but more to give you an idea of the (lack of) clarity on the matter.
 Enjoy reading
-
 <br>
 [this](https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.10049),
 <br>
