@@ -13,7 +13,7 @@ manufacturer's website to get the information on MRI safety conditions.
 **Question 1:** What conditions are demanded by the manufacturer for safe scanning?
 
 <br>
-
+<br>
 
 **Question 2:** What about the hip prosthesis?
 
