@@ -1,11 +1,11 @@
-# Luchtbukskogel
+# Airgun Pellet
 
-## Inleiding
+## Introduction
 
-De vraag komt binnen uit een ander ziekenhuis of een patiënt (man, 65 jaar)
-mee mag doen aan een MRI-studie. Bijzonderheid is dat deze patiënt al een
-jaar of twintig een luchtbukskogeltje in zijn borst heeft als gevolg van een
-broederlijk conflict.
+You are confronted with a question from a colleague from another hospital.
+It's about a patient (male, age 65) who wants to participate in a scientific study involving an MRI scan.
+What raised concern is that this patient already 20 years carries an airgun pallet in his chest as a result of a brotherly row.
+
 
 ![](dx_kogel_klein.png)
 
