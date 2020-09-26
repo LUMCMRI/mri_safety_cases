@@ -24,12 +24,14 @@ When looking for more, you may want to take a look at
 <br>
 
 [this](https://doi.org/10.1002/jmri.10049)
-<bfr>
-
-[this](https://journals.lww.com/plasreconsurg/Citation/1998/04000/MRI_INTERACTION_WITH_TATTOO_PIGMENTS.51.aspx)
 <br>
 
-[this]()
+[this](https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.10049)
+<br>
+
+<br>
+
+[this](https://journals.lww.com/plasreconsurg/Citation/1998/04000/MRI_INTERACTION_WITH_TATTOO_PIGMENTS.51.aspx)
 <br>
 
 [this]()
