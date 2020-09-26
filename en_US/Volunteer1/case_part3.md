@@ -19,24 +19,38 @@ General information and a discussion on tattoos can be found [here](http://www.m
 
 When looking for more, you may want to take a look at
 <br>
-
-[this](https://www.ajronline.org/doi/10.2214/AJR.06.5082)
-<br>
-
-[this](https://doi.org/10.1002/jmri.10049)
-<br>
-
 [this](https://onlinelibrary.wiley.com/doi/full/10.1002/jmri.10049)
 <br>
 
+[this](https://www.ajronline.org/doi/10.2214/AJR.06.5082)
 <br>
 
 [this](https://journals.lww.com/plasreconsurg/Citation/1998/04000/MRI_INTERACTION_WITH_TATTOO_PIGMENTS.51.aspx)
 <br>
 
-[this]()
-[this]()
-[this]()
-[this]()
 [this](https://www.ajronline.org/doi/full/10.2214/ajr.183.2.1830541)
+
+[this]()
+<br>
+
+[this]()
+<br>
+
+[this]()
+<br>
+
+[this]()
+<br>
+
+[this]()
+<br>
+
+[this]()
+<br>
+
+[this]()
+<br>
+
+[this]()
+<br>
 
