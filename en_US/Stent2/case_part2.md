@@ -1,17 +1,22 @@
-# Coronaire Stent 2
+# Stent 2
 
-## Deel 2
+## Part 2
 
-De stents blijken bij navraag van het type XIENSE Nano te zijn en in
-verschillende coronairen te zitten. Wat kun je op
-[MRISafety.com](http://www.mrisafety.com) vinden over dit type stent?
-
+From inquiry you learn that the stents are both of type XIENSE Nano and 
+placed in different coronaries.
 <br>
 <br>
 
-**Vraag:** Wat is je advies in dit geval?
+**Question 1:** What information can you find about this type of stent on [MRISafety.com](http://www.mrisafety.com)?
 
 <br>
 <br>
-[Vervolg](case_part3.md)
+<br>
+<br>
+
+**Question 2:** What is your advice?
+
+<br>
+<br>
+[Continue](case_part3.md)
 

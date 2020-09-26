@@ -1,20 +1,22 @@
-# Coronaire Stent 2
+# Stent 2
 
-## Deel 3
+## Part 3
 
-[MRISafety.com](http://www.mrisafety.com) zegt dat de stent op 1.5T en 3.0T mag en dat
-deze *Conditional 5* is. Dit betekent dat je op zoek moet naar de eisen
-waaronder gescand mag worden bij de fabrikant.
+On [MRISafety.com](http://www.mrisafety.com) you can find that 1.5T en 3.0T is allowed 
+and that the stent is labelled *Conditional 5*. This means you are to visit the 
+manufacturer's website to get the information on MRI safety conditions.
 
-<br>
-<br>
-
-**Vraag:** Welke eisen stelt de fabrikant?
-
-<br>
-
-**Vraag:** Wat doe je met de heupprothese?
 
 <br>
 <br>
-[Vervolg](case_part4.md)
+
+**Question 1:** What conditions are demanded by the manufacturer for safe scanning?
+
+<br>
+
+
+**Question 2:** What about the hip prosthesis?
+
+<br>
+<br>
+[Continue](case_part4.md)

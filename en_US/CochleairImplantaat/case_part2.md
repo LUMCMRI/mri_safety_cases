@@ -3,7 +3,7 @@
 ## Part 2
 
 
-**Beware:** Make sure the information you found concerns the exact brand, type and version as the device you are examining. 
+**Attention:** Make sure the information you found concerns the exact brand, type and version as the device you are examining. 
 Also check it is the most recent information sheet.
 
 If all went well you found several documents about this implant.

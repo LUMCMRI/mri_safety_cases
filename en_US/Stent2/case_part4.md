@@ -1,20 +1,32 @@
-# Coronaire Stent 2
+# Stent 2
 
-## Deel 4
+## Part 4
 
-Als het goed is heb je gevonden dat de stents onder de volgende eisen gescand
-mogen worden:
+If all went well you found that these stents can be safely scanned under the following conditions:
 
 * Static magnetic field of 1.5 or 3 Tesla.
-* Spatial gradient field of 2500 Gauss/cm or less.
+* Spatial gradient field of 25 T/m (= 2500 Gauss/cm) or less.
 * Maximum whole-body-averaged specific absorption rate (SAR) of 2.0 W/kg (normal operating mode) for each duration of a sequence.
 
-Dat maakt het advies dan ook vrij eenvoudig:
+This makes the advice for the stent pretty easy:
 
-* Scannen mag op 1.5T of 3.0T.
-* Rustig bewegen in de buurt van de scanner.
-* SAR beperken tot 2 W/kg.
+* Scanning is allowed on 1.5T and 3.0T.
+* Maximum SAR is 2 W/kg.
 
-Voor wat betreft de heupprothese geldt dat dit in het algemeen geen
-contra-indicatie is (maar kijk als je tijd hebt eens naar [deze
-heup](../Grijs/case.md#Heupprothese)).  
+**Remark:** The radiology department that provided this case uses Philips 1.5 or 3T scanners of different generations. 
+For all scanners the spatial gradient is lower than 25 T/m and therefore not stated in the restrictions that should be applied.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+As far as hip prostheses go: when recently placed they are, in general, not contra-indicated for MRI. For orientation one may visit [MRISafety.com](http://www.mrisafety.com), 
+search The List for *hip* and sort on *status*. Also, one may find the safety info *Orthopedic Implants, Materials, and Devices* of interest, including the papers it refers to.
+
+
+And of course there are exeptions, take a look at [this one](../Grijs/case.md#Heupprothese)).
+
+
+From the patient status there were no indications the hip prosthesis concerned an out of the ordinary situation. 
+We therefore decided that the presence of the hip prosthesis required additional restrictions 

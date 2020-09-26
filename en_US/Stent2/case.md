@@ -1,4 +1,4 @@
-# Coronaire Stent 2
+# Stent 2
 
 ![](stent1.jpg)
 ![](stent2.jpg)
@@ -7,18 +7,18 @@
 
 <br> 
 
-## Introductie
+## Introduction
 
-**Aanvraag.** MRI Brein op 3T. Patiënt heeft twee stents in de coronairen, 
-beiden geplaatst in dit ziekenhuis in 2014. Verder heeft de patient een heupprothese
-die in 2010 in een ander ziekenhuis in Nederland geplaatst is.
-
-<br>
-<br>
-
-**Vraag:** Heb je voldoende informatie om te kunnen beoordelen of de patient
-gescand kan worden en zo ja, onder welke voorwaarden?
+**Medical request.** MRI Brain on 3T. Patient has two coronary stents, 
+both interventions were performed in 2014. The patient also has a hip prosthesis that was placed in 2010.
 
 <br>
 <br>
-[Vervolg](case_part2.md)
+
+**Question:** Is this sufficient information to decide whether this patient can be safely scanned and 
+if applicable, under what conditions?
+
+
+<br>
+<br>
+[Continue](case_part2.md)
