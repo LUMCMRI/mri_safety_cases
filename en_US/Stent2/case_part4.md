@@ -13,14 +13,19 @@ This makes the advice for the stent pretty easy:
 * Scanning is allowed on 1.5T and 3.0T.
 * Maximum SAR is 2 W/kg.
 
+<br>
+<br>
+
 **Remark:** The radiology department that provided this case uses Philips 1.5 or 3T scanners of different generations. 
 For all scanners the spatial gradient is lower than 25 T/m and therefore not stated in the restrictions that should be applied.
+
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
+
 As far as hip prostheses go: when recently placed they are, in general, not contra-indicated for MRI. For orientation one may visit [MRISafety.com](http://www.mrisafety.com), 
 search The List for *hip* and sort on *status*. Also, one may find the safety info *Orthopedic Implants, Materials, and Devices* of interest, including the papers it refers to.
 
