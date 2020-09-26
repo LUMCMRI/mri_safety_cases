@@ -23,8 +23,6 @@ For all scanners the spatial gradient is lower than 25 T/m and therefore not sta
 <br>
 <br>
 <br>
-<br>
-<br>
 
 As far as hip prostheses go: when recently placed they are, in general, not contra-indicated for MRI. For orientation one may visit [MRISafety.com](http://www.mrisafety.com), 
 search The List for *hip* and sort on *status*. Also, one may find the safety info *Orthopedic Implants, Materials, and Devices* of interest, including the papers it refers to.

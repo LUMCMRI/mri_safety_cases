@@ -1,4 +1,4 @@
-# Healthy Volunteer 1
+# Healthy Volunteer
 
 ## Part 2
 
@@ -10,7 +10,7 @@ to find in this particular study.
 <br>
 <br>
 
-**Question:** What is your advise?
+**Question:** What is your advice?
 
 <br>
 <br>
