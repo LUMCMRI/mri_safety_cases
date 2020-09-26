@@ -19,9 +19,17 @@ General information and a discussion on tattoos can be found [here](http://www.m
 
 When looking for more, you may want to take a look at
 [this](DOI:10.2214/AJR.06.5082)
+<br>
+
+[this](DOI 10.1002/jmri.10049)
+<bfr>
+
+[this](https://journals.lww.com/plasreconsurg/Citation/1998/04000/MRI_INTERACTION_WITH_TATTOO_PIGMENTS.51.aspx)
+<br>
+
 [this]()
-[this]()
-[this]()
+<br>
+
 [this]()
 [this]()
 [this]()
