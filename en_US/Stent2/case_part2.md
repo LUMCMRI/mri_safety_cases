@@ -8,7 +8,7 @@ placed in different coronaries.
 <br>
 <br>
 
-**Question 1:** What information can you find about this type of stent on [MRISafety.com](http://www.mrisafety.com)?
+**Question:** What information can you find about this type of stent on [MRISafety.com](http://www.mrisafety.com)?
 
 <br>
 <br>
