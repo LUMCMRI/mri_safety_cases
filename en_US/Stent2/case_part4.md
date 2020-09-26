@@ -25,7 +25,6 @@ As far as hip prostheses go: when recently placed they are, in general, not cont
 search The List for *hip* and sort on *status*. Also, one may find the safety info *Orthopedic Implants, Materials, and Devices* of interest, including the papers it refers to.
 
 
-And of course there are exceptions, take a look at [this one](../Grijs/case.md#Heupprothese)).
 
 
 From the patient status there were no indications the hip prosthesis concerned an out of the ordinary situation. 
