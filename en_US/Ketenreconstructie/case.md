@@ -8,7 +8,7 @@ an operation on her middle ear in 2006. Requested MRI examination is a 3T scan o
 
 <br>
  
-Below you find the operation report:
+Here is the operation report:
 <br>
 ```
 Pre-operatieve diagnosis:
