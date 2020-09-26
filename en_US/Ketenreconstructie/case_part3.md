@@ -2,8 +2,8 @@
 
 ## Part 3
 
-**Attention:** For the Aerial Total Tuebingen Titanium [MRISafety.com](http://www.mrisafety.com) shows the status *Safe* for 3T,
- however on their website Kurz states its MRI conditional. This is a clear example one should never stop when a first result is found!
+**Attention:** For the Aerial Total Tuebingen Titanium [MRISafety.com](http://www.mrisafety.com) shows the status *Safe* for 3T. 
+However, on their website Kurz states the implant is MRI conditional. This is a clear example one should never stop when a first result is found!
 
 <br>
 
@@ -17,6 +17,7 @@
 <br>
 
 **Hint:** Finding the correct MRI information on the manufaturer's website quite often requires a number of steps, here also:
+
 * First go to Products > Otology > Tympanoplasty > Tuebingen Type Prostheses
 * Check the presence of the item you're looking for. Yes, the TTP-TUEBINGEN Total Prosthesis is there
 * Scroll down to *Oredering Information* and click TTP Tuebingen Type AERIAL Total Prosthesis. Here you find reference number 1004234 for the 3.0
