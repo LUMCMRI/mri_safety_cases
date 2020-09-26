@@ -18,10 +18,12 @@ of performing an MRI scan. You may find a different outcome when considering the
 General information and a discussion on tattoos can be found [here](http://www.mrisafety.com/SafetyInformation_view.php?editid1=228).
 
 When looking for more, you may want to take a look at
+<br>
+
 [this](https://www.ajronline.org/doi/10.2214/AJR.06.5082)
 <br>
 
-[this]( https://doi.org/10.1002/jmri.10049)
+[this](https://doi.org/10.1002/jmri.10049)
 <bfr>
 
 [this](https://journals.lww.com/plasreconsurg/Citation/1998/04000/MRI_INTERACTION_WITH_TATTOO_PIGMENTS.51.aspx)
