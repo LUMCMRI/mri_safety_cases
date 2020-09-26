@@ -2,7 +2,7 @@
 
 ## Part 2
 
-From inquiry you learn that the stents are both of type XIENSE Nano and 
+From inquiry you learn that the stents are both of type XIENCE Nano and 
 placed in different coronaries.
 <br>
 <br>
