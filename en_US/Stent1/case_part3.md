@@ -3,7 +3,7 @@
 ## Still more information
 
 The MRI-tech that approached you for advice did some digging to get a complete picture of the medical procedure the patient underwent.
-The operation report states that part of a vein taken from the leg was used to replace part of a vessel in the shoulder. The stent was applied in the shoulder area. 
+The operation report states that part of a vein taken from the leg was used to replace part of a vessel in the shoulder. The stent was then applied in the shoulder area. 
 
 
 <br>
