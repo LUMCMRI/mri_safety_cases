@@ -1,44 +1,35 @@
-# Luchtbukskogel
+# Airgun Pallet
 
-## Advies
+## Advice
 
-Alvorens advies te geven hebben we de Röntgen-opnamen in detail bekeken en
-geconstateerd dat het kogeltje een karakteristieke diabolo vorm heeft.
+First we studied the chest X-rays in detail and concluded that the pellet shows a typical diabolo shape.
 <br>
-Bij een uitgebreide gang langs internet leveranciers van luchtbuks ammunitie
-vonden we alleen maar diabolo-vormige kogeltjes die van lood zijn gemaakt.
-Kogeltjes die niet van lood zijn hadden allemaal een andere vorm (bijvoorbeeld:
-kogeltjes bedoeld voor de schiettent op de kermis kunnen van staal zijn met koper coating, maar die zijn rond van vorm).
-
+Then a thourough internet search of available airgun pellets was performed, both inside and outside of 
+Europe for one never knows where people order their pellets of choice. All diabolo shaped pellets found consist of solid lead
+Pellets that contained other material(s) than lead all had a different shape than the one present in the X-rays. 
+For example pellets used in a shooting gallery may consist of steel with a copper coating, but these have round shape.
 <br>
 <br>
-Hieronder volgt het advies dat wij aan het aanvragende ziekenhuis hebben
-gegeven:
+Below you find the advice we sent to our colleagues:
 
 ```
-Voor het formele gedeelte: wij kunnen alleen advies geven, uiteindelijk
-besluit een radioloog of iemand wel of niet gescand kan worden in de
-MRI-scanner.
-
-Wij denken het volgende:
-
-1. Het kogeltje ziet er uit als een luchtbukskogeltje (typische diabolo).
-2. Het materiaal is onbekend, maar is zeer waarschijnlijk voor het grootste
-   gedeelte lood.
-3. Het kogeltje zit er al geruime tijd (meer dan 20 jaar werd gezegd) en
-   zal ingekapseld zijn.
-
-   Het kogeltje zit op een lokatie die in de buurt van een intercostale
-   vene, arterie en zenuw is. Wij verwachten geen opwarming door RF van of
-   rond het kogeltje op 1.5T en 3.0T.  Het kogeltje is klein, goed
-   ingekapseld en is (zeer waarschijnlijk) niet ferromagnetisch dus wij
-   verwachten niet dat er krachten op het kogeltje gaan werken door
-   aantrekking of door bewegen in het magnetisch veld die het kogeltje van
-   zijn plaats gaan brengen. Het kogeltje zal wel een artefact geven op de
-   scan maar dit zal (afhankelijk van de sequentie uiteraard) zeer lokaal
-   zijn.
+First the formal bit: we only share our advice, the decision whether the patient is allowed to 
+participate and can be scanned safely lies with the radiologist or medical specialist that is responsible for the participants
 
 
-   Wij zien geen bezwaar om deze persoon te scannen in de MRI voor
-   wetenschappelijk onderzoek.
+What we conclude:
+
+1. The bullet has the typical diabolo shape of an airgun pellet.
+2. The material is unknown but we find it higly probable that the pellet (almost) fully consists of lead.
+3. According to the candidate the pellet is in situ for over 20 years. We therefore expect it to be fully encapsulated.
+
+   The pellet is small, well encapsulated and (with high probability) non-ferromagnetic. We therefore expect no interaction 
+   with the main magnetic field, no translational or rotational forces and no forces due to the Lenz effect.
+   Because of the small size we do not expect any interaction with the RF waves, hence no (local) heating on 1.5T or 3T.
+   Because of the relatively superficial location we advice against the use of a local transmit coil that covers the chest.
+   The pellet may be located in the vicinity of intercostal vessels or nerves. However because of the anticipated encapsulation we do not expect this to be a problem.
+   The pellet will cause an imaging artefact that, depending on the type of imaging sequence, may extent up to three cm from the pellet (rough estimate!). 
+   
+
+   We would allow this subject to be scanned for scientific research on 1.5 or 3T as long as no local transmit coil is used for chest imaging.
 ```
