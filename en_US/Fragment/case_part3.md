@@ -1,11 +1,10 @@
-# Metaalfragment
+# Metal fragment
 
-Vanwege het belang van de klinische studie is de patiënt doorgestuurd naar de
-Spoed Eisende Hulp waar het stukje metaal is verwijderd. Later die week is de
-patiënt alsnog gescand (waarbij op de scan bleek dat hij ook nog metaalfragmenten
-in zijn been had zitten).
-
+Because of the importance of the clinical study the patient is referred to the 
+emergency department where the metal fragment is removed. Later that week he returns 
+to the radiology department and undergoes the whole body MRI scan (the images show 
+ more fragments located in his legs. 
 <br>
 <br>
 
-**Vraag:** wat is er hier misgegaan? Zou je het zelf anders hebben gedaan?
+**Question:** Is there room for improvement here? Would you hac acted differently?

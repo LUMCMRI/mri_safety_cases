@@ -1,18 +1,21 @@
-# Metaalfragment
+# Metal fragment
 
-Patiënt meldt op het vragenformulier dat hij ooit een ongeluk op de
-schietvereniging heeft gehad (jaar of vijf geleden) waarbij een patroon
-ontploft is in zijn gezicht.  Bij de eerste hulp zijn toen, naar zijn zeggen,
-alle metaalresten verwijderd. De aanvraag is voor een whole-body scan op 3T.
-De patiënt doet mee in een studie waar de MRI een belangrijk onderdeel van is.
-Zonder de MRI kan de patiënt niet geïncludeerd worden.
+This is the case of a patient that is about to take part in a clinical scientific study 
+of which the MRI scan forms an essential part. The requested examination is a 3T, 
+whole body scan.When not allowed for MRI the patient will be excluded from the study.
+ 
+On the MRI safety questionnair he remarks that he once was involved in 
+an accident at the shooting club: five years ago a gun cartridge exploded in his face.
+According to the patient he was taken to the emergency department were all fragments were removed.
+
+<br>
+<br>
+<br>
+<br>
+
+**Question:** What would you do? 
 
 <br>
 <br>
 
-**Vraag:** Wat doe je? 
-
-<br>
-<br>
-
-[Vervolg](case_part2.md)
+[Continue](case_part2.md)

@@ -28,7 +28,7 @@ What we conclude:
 6. Because of the relatively superficial location we advice against the use of a local transmit coil that covers the chest.
 7. The pellet may be located in the vicinity of intercostal vessels or nerves. However because of the anticipated encapsulation
    we do not expect this to be a problem.
-8. The pellet will cause an imaging artefact that, depending on the type of imaging sequence, may extent up to three cm from the pellet (rough estimate!). 
+8. The pellet will cause an imaging artefact that, depending on the type of imaging sequence, may extent up to 3cm from the pellet (rough estimate!). 
    
 
 We would allow this subject to be scanned for scientific research on 1.5 or 3T as long as no local transmit coil is used for chest imaging.

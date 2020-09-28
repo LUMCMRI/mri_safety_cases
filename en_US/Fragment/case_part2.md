@@ -1,17 +1,18 @@
-# Metaalfragment
+# Metal fragment
 
-In deze casus werd besloten om de patiënt door te sturen naar de MRI. Bij het 
-neerleggen op tafel merkt de patiënt dat er aan iets in zijn voorhoofd wordt
-getrokken. De patiënt wordt meteen van tafel gehaald en er wordt een foto gemaakt:
+In this case the researchers decide to fully accept the statement that all fragments were removed 
+and the patient is accepted for MRI. When the patient is being positioned on the MRI bed he notices 
+a tugging feeling in his forehead. He is then asked to get off the table, guided out of the MRI suite and 
+referred for an X-ray of the head.
 
 ![](lat.jpg)
 
 <br>
 <br>
 
-**Vraag:** Wat doe je?
+**Question:** What would you do next?
 
 <br>
 <br>
 
-[Vervolg](case_part3.md)
+[Continue](case_part3.md)
