@@ -7,7 +7,7 @@ It may be helpful to exchange thoughts with colleagues about the statements belo
 a clearer view on how to respond to out of the ordinary situations. 
 These statements not necessarily reflect our opinion on what is right or wrong, they are merely meant to get a discussion started.
 
-* In research limits to the level of acceptible risk should be more restrictive as compared to a clinical setting.
+* In research limits to the level of acceptible risk should be more restrictive as compared to the clinical setting.
 * Never trust information provided by the patient.
 * The presence of a metal detector would have prevented this patient from being taken into the scanner room.
 * Having a person operated so she/he can be allowed for an MRI scan is not ethical.
