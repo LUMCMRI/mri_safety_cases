@@ -27,15 +27,32 @@ Therapy:
 2-Stitching eyelid laceration
 
 
+OPERATION REPORT
+General aneasthesia. Head in neutral position. Shaving L/R in prep of trephination and marking of incisions.
+Shaving, 
 
-
+General anesthesia. Head in neutral position. Bilateral shaving for frontal trephination and marking incisions. 
+Shave, iodine, cover. Placement of incisions and bore holes, durotomy bilateral. Then bilateral in 1x puncture of lateral ventricle. 
+Normal-slightly increased pressure, with production of drain on the right being heavily bloody. Tunneling drains and fixation on the skin.
+Layerd wound closure after connecting drains to the collection system Then suture laceration at the eyelid with Ethilon 5/0. Zero blood loss
 
 ```
+<br>
+<br>
+```
+GENERAL
+Pre-operative diagnosis:
+Grade 1 complicated left intra-articular distal radius fracture
+Post-operative diagnosis:
+The same, but also in any case complete traumatic rupture tendon flexor carpi ulnaris left
+Therapy:
+External fixator over distal radius
 <br>
 
 ![DX pols](dx_pols.png)
 
 <br>
+'''
 <br>
 
 **Question:** Find out whether this patient can be safely scanned and if applicable, under what conditions.
