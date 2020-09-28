@@ -1,15 +1,15 @@
 # External Fixator 
 
-## Deel 3
+## Part 3
 
-Ruggespraak met een team van experts (hoogleraar 7T MRI-faciliteit) levert op
-dat indien de fixateur buiten bereik van de transmit coil ligt de kans op opwarmen
-van de fixateur externe als minimaal wordt ingeschat. Uit voorzorg wordt wel aangeraden de gradiënten te reduceren.
+Consultation of an MRI Radio Frequency expert results in the conclusion that chances 
+of the fixture heating up will be very low when the External Fixator is outside the coverage or reach of the RF transmit coil.
+As an extra precaution it is advised to reduce gradient system settings.
 
 <br>
 <br>
 
-**Vraag:** Hieronder zie je welke apparatuur beschikbaar is. Wat denk je nu? Kan dit onderzoek uitgevoerd worden of niet?
+**Question:** Below you find which equipment is available. What do think, can this MRI examination take place or not?
 
 <br>
 <br>
