@@ -1,7 +1,7 @@
-# Fixateur Externe 
+# External Fixator 
 
 
-## Inleiding
+## Introduction
 
 Voor complexe fracturen van de pols kan een zogenaamde *fixateur externe*
 worden gebruikt. Hiernaast zie je een voorbeeld van een dergelijke fixateur van de
