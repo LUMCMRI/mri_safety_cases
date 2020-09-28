@@ -15,12 +15,6 @@ For follow up they now need an MRI of the brain including FLAIR, DWI and a susce
 
 
 
-External Ventricular Drainage for Intraventricular Hemorrhage
-
-
-
-<br>
-
 **Extra information:** below you find the request form and images of the wrist X-ray.
 
 ![OK Verslag](ok_verslag.png)
@@ -29,9 +23,18 @@ External Ventricular Drainage for Intraventricular Hemorrhage
 <br>
 <br>
 
-**Vraag:** Zoek uit of deze patiënt gescand zou kunnnen worden en zo ja, onder welke voorwaarden.
+**Question:** Find out whether this patient can be safely scanned and if applicable, under what conditions.
 
 <br>
 <br>
 
-[Vervolg](case_part2.md)
+[Continue](case_part2.md)
+
+
+
+
+
+External Ventricular Drainage for Intraventricular Hemorrhage
+
+
+
