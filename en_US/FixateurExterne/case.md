@@ -47,6 +47,15 @@ Post-operative diagnosis:
 The same, but also in any case complete traumatic rupture tendon flexor carpi ulnaris left
 Therapy:
 External fixator over distal radius
+
+OPERATION REPORT
+Patient under general anesthesia in the supine position. Two ventricle drains have already been placed by neuro-surgeon. 
+Briefing. Kefzol had already been given. Chlorhexidine, after which sterile covering left forearm. There is a transverse cut 
+approximately 1 cm volar side at the level of the distal ulna. Tendon tissue sticks out here. When we take this out of 
+the wound, it turns out to be the flexor tendon of dig 4 and 5, it is completely ruptured. Telephone consultation 
+with the plastic surgeon. With the current status of the patient there is no indication to volar exploration for evaluation
+ of further tendon and / or nerve injury.
+
 <br>
 
 ![DX pols](dx_pols.png)
