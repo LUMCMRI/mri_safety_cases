@@ -1,21 +1,17 @@
-# External Fixator 
+# Fixateur Externe 
 
 
-## Introduction
+## Inleiding
 
-For treatment of complex wrist fractures sometimes an *external fixator* is used. To the
-left you see an example of such a device, made by the [Orthofix](http://www.orthofix.com) company![](fixateur_wrist.png)**Medical request:**
-Patient is a 55 year old male who fell from a ladder about 5 weeks ago, injuring his head and wrist. 
-For follow up they now need an MRI of the brain including FLAIR, DWI and a susceptibility wheighted sequence.
+Voor complexe fracturen van de pols kan een zogenaamde *fixateur externe*
+worden gebruikt. Hiernaast zie je een voorbeeld van een dergelijke fixateur van de
+fabrikant [Orthofix](http://www.orthofix.com). ![](fixateur_wrist.png)**Aanvraag:** Patiënt is een man (55 jaar) die ruim een maand geleden van een
+ladder is gevallen.  Binnengebracht met de ambulance. Nu wordt gevraagd een
+MRI Brein, inclusief FLAIR, DWI en een susceptibility gewogen sequentie. 
 
 <br>
 
-
-
-
-
-
-**Extra information:** below you find the request form and images of the wrist X-ray.
+**Extra informatie:** hieronder vind je de aanvraag en Röntgen-opnamen van de pols.
 
 ![OK Verslag](ok_verslag.png)
 ![DX pols](dx_pols.png)
@@ -23,18 +19,9 @@ For follow up they now need an MRI of the brain including FLAIR, DWI and a susce
 <br>
 <br>
 
-**Question:** Find out whether this patient can be safely scanned and if applicable, under what conditions.
+**Vraag:** Zoek uit of deze patiënt gescand zou kunnnen worden en zo ja, onder welke voorwaarden.
 
 <br>
 <br>
 
-[Continue](case_part2.md)
-
-
-
-
-
-External Ventricular Drainage for Intraventricular Hemorrhage
-
-
-
+[Vervolg](case_part2.md)

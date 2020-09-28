@@ -1,14 +1,13 @@
-# Fixateur Externe
+# External Fixator
 
-## Deel 2
+## Part 2
 
-Als het goed is heb je gevonden dat de fabrikant onder bepaalde omstandigheden
-toestaat dat iemand met deze fixateur externe een MRI-scan kan ondergaan. 
+When all went well you found that the manufacturer allows for MRI scanning when certain conditions are met.
 
 <br>
 <br>
 
-**Vraag:** Welke voorwaarde lijkt het grootste probleem op te leveren?
+**Question:** Which condition seems to form the biggest hurdle?
 
 <br>
 
