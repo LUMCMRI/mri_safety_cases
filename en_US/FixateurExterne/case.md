@@ -13,7 +13,6 @@ For follow up they now need an MRI of the brain including FLAIR, DWI and a susce
 <br>
 
 **Extra information:** below you find the request form and images of the wrist X-ray.
-
 <br>
 ```
 
@@ -40,7 +39,6 @@ Layerd wound closure after connecting drains to the collection system Then sutur
 <br>
 
 .
-
 <br>
 ```
 
@@ -59,15 +57,17 @@ approximately 1 cm volar side at the level of the distal ulna. Tendon tissue sti
 the wound, it turns out to be the flexor tendon of dig 4 and 5, it is completely ruptured. Telephone consultation 
 with the plastic surgeon. With the current status of the patient there is no indication to volar exploration for evaluation
  of further tendon and / or nerve injury.
+ Under vetting, positioning for external fixator. Incision over medioradiary side of MC 2 distal part. Blunt to bone. Drill, after which determine the second drill hole with the help of a drill sleeve. Two pins of the Orthofix fixator are placed bicortically. Similarly, on the distal radius, this occurs just cranial to the muscle abdomen EPL. Orthofix fixator is placed. Closed reposition by means of traction, whereby a good stance is obtained in two directions. Tighten the fixator. Check again with BV, still good status. Incisions are approximated with Ethilon, as is the volar lesion. Fat gauze at the location of pin holes, followed by bandage. Debriefing. Blood loss: zero. The patient goes to the ICU postoperatively. In two days, a plastic surgeon will visit for further treatment of tendon injuries.
 
-'''
+CONCLUSION
+Grade 1 complicated left intra-articular distal radius fracture with traumatic tendon rupture of flexor dig 4 and 5 discovered peroperatively.
 
+```
 <br>
 
 ![DX pols](dx_pols.png)
 
 <br>
-'''
 <br>
 
 **Question:** Find out whether this patient can be safely scanned and if applicable, under what conditions.
