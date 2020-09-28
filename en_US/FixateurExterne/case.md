@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Voor complexe fracturen van de pols kan een zogenaamde *fixateur externe*
+For treatment of complex wrist fractures sometimes an *external fixator* is used.
 worden gebruikt. Hiernaast zie je een voorbeeld van een dergelijke fixateur van de
 fabrikant [Orthofix](http://www.orthofix.com). ![](fixateur_wrist.png)**Aanvraag:** Patiënt is een man (55 jaar) die ruim een maand geleden van een
 ladder is gevallen.  Binnengebracht met de ambulance. Nu wordt gevraagd een
