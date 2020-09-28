@@ -38,8 +38,12 @@ Layerd wound closure after connecting drains to the collection system Then sutur
 
 ```
 <br>
+
+.
+
 <br>
 ```
+
 GENERAL
 Pre-operative diagnosis:
 Grade 1 complicated left intra-articular distal radius fracture
@@ -55,6 +59,8 @@ approximately 1 cm volar side at the level of the distal ulna. Tendon tissue sti
 the wound, it turns out to be the flexor tendon of dig 4 and 5, it is completely ruptured. Telephone consultation 
 with the plastic surgeon. With the current status of the patient there is no indication to volar exploration for evaluation
  of further tendon and / or nerve injury.
+
+'''
 
 <br>
 
