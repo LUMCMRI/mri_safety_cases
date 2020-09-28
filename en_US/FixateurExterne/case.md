@@ -6,6 +6,7 @@
 For treatment of complex wrist fractures sometimes an *external fixator* is used.
 To the right you see an example of such a device, made by the
  [Orthofix](http://www.orthofix.com) company. ![](fixateur_wrist.png)
+<br>
 **Medical Request:** Patiënt is een man (55 jaar) die ruim een maand geleden van een
 ladder is gevallen.  Binnengebracht met de ambulance. Nu wordt gevraagd een
 MRI Brein, inclusief FLAIR, DWI en een susceptibility gewogen sequentie. 
