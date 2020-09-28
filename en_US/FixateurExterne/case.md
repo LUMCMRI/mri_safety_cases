@@ -42,6 +42,8 @@ Layerd wound closure after connecting drains to the collection system Then sutur
 <br>
 ```
 
+Operation Report.  Fore arm, External Fixator Ulna and/or Radius
+
 GENERAL
 Pre-operative diagnosis:
 Grade 1 complicated left intra-articular distal radius fracture
@@ -49,6 +51,7 @@ Post-operative diagnosis:
 The same, but also in any case complete traumatic rupture tendon flexor carpi ulnaris left
 Therapy:
 External fixator over distal radius
+
 
 OPERATION REPORT
 Patient under general anesthesia in the supine position. Two ventricle drains have already been placed by neuro-surgeon. 
@@ -67,6 +70,7 @@ Blood loss: zero. The patient goes to the ICU postoperatively. In two days, a pl
 CONCLUSION
 Grade 1 complicated left intra-articular distal radius fracture with traumatic tendon rupture of flexor dig 4 and 5 discovered peroperatively.
 
+
 ```
 <br>
 
@@ -77,7 +81,6 @@ Grade 1 complicated left intra-articular distal radius fracture with traumatic t
 
 **Question:** Find out whether this patient can be safely scanned and if applicable, under what conditions.
 
-<br>
 <br>
 
 [Continue](case_part2.md)
