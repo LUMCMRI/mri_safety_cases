@@ -4,16 +4,15 @@
 ## Introduction
 
 For treatment of complex wrist fractures sometimes an *external fixator* is used.
-To the right you see an example of such a device, made by the
+On the right you see an example of such a device, made by the
  [Orthofix](http://www.orthofix.com) company. ![](fixateur_wrist.png)
 <br>
-**Medical Request:** Patiënt is een man (55 jaar) die ruim een maand geleden van een
-ladder is gevallen.  Binnengebracht met de ambulance. Nu wordt gevraagd een
-MRI Brein, inclusief FLAIR, DWI en een susceptibility gewogen sequentie. 
+**Medical Request:** Patient is a 55 year old male who fell from a ladder about 5 weeks ago, injuring his head and wrist. 
+For follow up they now need an MRI of the brain including FLAIR, DWI and a susceptibility wheighted sequence.
 
 <br>
 
-**Extra informatie:** hieronder vind je de aanvraag en Röntgen-opnamen van de pols.
+**Extra information:** below you find the request form and images of the wrist X-ray.
 
 ![OK Verslag](ok_verslag.png)
 ![DX pols](dx_pols.png)
@@ -21,9 +20,10 @@ MRI Brein, inclusief FLAIR, DWI en een susceptibility gewogen sequentie.
 <br>
 <br>
 
-**Vraag:** Zoek uit of deze patiënt gescand zou kunnnen worden en zo ja, onder welke voorwaarden.
+**Question:** Find out whether this patient can be safely scanned and if applicable, under what conditions.
 
 <br>
 <br>
 
-[Vervolg](case_part2.md)
+[Continue](case_part2.md)
+
