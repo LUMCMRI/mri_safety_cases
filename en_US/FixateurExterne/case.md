@@ -14,7 +14,25 @@ For follow up they now need an MRI of the brain including FLAIR, DWI and a susce
 
 **Extra information:** below you find the request form and images of the wrist X-ray.
 
-![OK Verslag](ok_verslag.png)
+<br>
+```
+
+Operation Report.  External Ventricular Drainage for Intraventricular Hemorrhage
+
+GENERAL
+Pre-operative diagnosis:
+IVH with prog hydrocephalus
+Therapy:
+1-Bifrontal drain placement frontally
+2-Stitching eyelid laceration
+
+
+
+
+
+```
+<br>
+
 ![DX pols](dx_pols.png)
 
 <br>
