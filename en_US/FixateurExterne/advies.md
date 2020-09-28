@@ -14,4 +14,4 @@
 <br>
 
 **Question:** When the patient arrives at the MRI department he is sedated and rarely aware of his surroundings.
-Does this make any change?
+Does this make any difference?

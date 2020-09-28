@@ -39,7 +39,6 @@ Layerd wound closure after connecting drains to the collection system. Then sutu
 
 ```
 <br>
-
 <br>
 ```
 
