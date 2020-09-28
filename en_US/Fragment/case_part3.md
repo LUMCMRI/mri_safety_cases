@@ -8,3 +8,16 @@ to the radiology department and undergoes the whole body MRI scan (the images sh
 <br>
 
 **Question:** Is there room for improvement here? Would you hac acted differently?
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
