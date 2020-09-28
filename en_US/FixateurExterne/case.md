@@ -1,13 +1,23 @@
-# Fixateur Externe 
+# External Fixator 
 
 
-## Inleiding
+## Introduction
 
-Voor complexe fracturen van de pols kan een zogenaamde *fixateur externe*
-worden gebruikt. Hiernaast zie je een voorbeeld van een dergelijke fixateur van de
-fabrikant [Orthofix](http://www.orthofix.com). ![](fixateur_wrist.png)**Aanvraag:** Patiënt is een man (55 jaar) die ruim een maand geleden van een
-ladder is gevallen.  Binnengebracht met de ambulance. Nu wordt gevraagd een
-MRI Brein, inclusief FLAIR, DWI en een susceptibility gewogen sequentie. 
+For treatment of complex wrist fractures sometimes an *external fixator* is used.
+To the left you see an example of such a device, made by the [Orthofix](http://www.orthofix.com) company.
+ ![](fixateur_wrist.png)
+ 
+ **Medical request:** Patient is a 55 year old male who fell from a ladder about 5 weeks ago, injuring his head and wrist. 
+For follow up they now need a MRI of the brain including FLAIR, DWI and a susceptibility wheighted sequence.
+
+<br>
+
+External Ventricular Drainage for Intraventricular Hemorrhage
+
+
+
+
+
 
 <br>
 
