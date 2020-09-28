@@ -9,7 +9,7 @@
 
 ## Introduction
 
-**Medical request.** MRI Brain on 3T. Patient has two coronary stents, 
+An MRI Brain on 3T is requested. The patient has two coronary stents, 
 both interventions were performed in 2014. The patient also has a hip prosthesis that was placed in 2010.
 
 <br>

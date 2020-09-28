@@ -2,8 +2,8 @@
 
 ## Introduction
 
-**Medical request:** Patient (female, age 58, no other contra indications) underwent
-an operation on her middle ear in 2006. Requested MRI examination is a 3T scan of the brain.
+A patient (female, age 58, no other contra indications) underwent an operation on her 
+middle ear in 2006. Now a 3T MRI scan of the brain is requested.
 ![](tuebingen.jpg)
 
 <br>
