@@ -10,10 +10,16 @@ No drain was left behind.
 <br>
 <br>
 
-**Question:** Look up this clip on the internet. Are there contra-indications?
-What does the manufacturer say? What does MRIsafety.com tell you about clips?
-What material is the clip made of?
+**Question 1:** Look up this clip on the internet. Are there contra-indications?
+<br>
+<br>
 
+**Question 2:** What does the manufacturer say and what does MRIsafety.com tell you about clips?
+
+<br>
+<br>
+
+**Question 3:** What material is the clip made of?
 
 <br>
 <br>
