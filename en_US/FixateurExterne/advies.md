@@ -1,17 +1,17 @@
 # External Fixator 
 
-## Advies
+## Advice
 
-* Scannen op 3.0T met de Transmit-Receive head coil 
-* **Alle** scans moeten met deze coil worden gemaakt (geen Survey met de
-  bodycoil).
-* Gradiëntsterkte zoveel mogelijk beperken (SoftTone optie bijvoorbeeld).
-* Fixateur isoleren met matje/kussentjes/laken zodat er geen contact met de wand van de
-  scanner of de rest van het lichaam is.
-* Patiënt goed instrueren over mogelijke opwarming.
+* Scan on 3.0T using the Transmit-Receive head coil 
+* **All** scans are to be acquired with this coil. Warning: this includes the Survey/scout scan.
+* Gradient settings should be reduced as far as reasonably achievable.
+* Padding is to be applied to prevent contact between fixator and 
+    * the table or magnet bore, 
+    * bare skin
+* Instruct the patient about possible local warming and use of the nurse call button if this may occur.
 
 <br>
 <br>
 
-**Vraag:** Patiënt wordt in bed aangemeld en blijkt niet-communicatief te zijn. Wat doe je
-nu?
+**Question:** When the patient arrives at the MRI department he is sedated and rarely aware of his surroundings.
+Does this make any change?

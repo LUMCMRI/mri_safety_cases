@@ -14,15 +14,15 @@ As an extra precaution it is advised to reduce gradient system settings.
 <br>
 <br>
 
-Beschikbare apparatuur:
+Available equipment:
 
-1. 1.5T Philips Ingenia met de volgende spoelen:
+1. 1.5T Philips Ingenia including these coils:
    - Receive only head
    - Receive only body
 1. 3.0T Philips Achieva
    - Receive-only 32-channel head
-   - Transmit-Receive head coil (kwadratuur)
+   - Transmit-Receive head coil (quadrature)
 
 <br>
 <br>
-[Advies](advies.md)
+[Advice](advies.md)
