@@ -2,7 +2,7 @@
 
 ## Information from the manufacturer.
 
-You have probably found information at various places on the ** Rocket ** Medical MRI safety website, but it is not easy to say quickly whether it is safe to scan.
+You have probably found information at various places on the ** Rocket ** Medical MRI safety website, but it is not straight forward to say whether it is safe to scan.
 Please see our comments below on interpreting the information provided.
 
 
@@ -11,26 +11,28 @@ Please see our comments below on interpreting the information provided.
 <br>
 
 **Hint:**
-Via *Hospital Care / Delivery Suite - Labour Ward / Rocket CVS Needles & KCH™ Fetal Bladder/Pleural Catheters* you'll find 
-under *Product Description* and also in the *datasheet* that the catheter is 'MRI Compatible'. ![](Rocket_cath_info_1.png) 
+Via *Products / Delivery Suite - Labour Ward / KCH™ Fetal Bladder, Pleural Catheters & Rocket CVS Needles/ R57405 Rocket KCH Fetal Bladder Catheter * you'll find 
+under *Learn More* the product description that tells you the catheter is 'MRI UNSPECIFIED'. ![](Rocket_cath_info_1_2020.png) 
+
+<br>
+<br>
 
 **Attention:** 
-The designation * MR-compatible * is not unambiguous, can scanning be done safely or is it only possible under special conditions? <br>
-For this reason, the terms ** MR-safe, MR-conditional ** and ** MR-unsafe ** are used today.
+The designation * MR UNSPECIFIED * only helps in the sense that we are not dealing with the internationally accepted classification
+ ** MR-safe, MR-conditional ** and ** MR-unsafe **.
+
+<br>
+<br>
+
+Please take note of what the Product Description says about the materials applied and MRI-safety.
+**Question:** what is your advice?
 
 <br>
 <br>
 
 **Hint:**
-Via *Customer Support / Customer Information Bulletins* you'll find the 'Use of Rocket® KCH™ Catheters with MRI - ADVISORY BULLETIN'.
-![](Rocket_cath_info_3.png)<br>
-
-<br>
-<br>
- 
-**Question:** what is your advice?
-
-<br>
+There's different types of stainless steel and not all of those are MRI-Safe. If you want to learn more about (Austenitic) stainless steel 
+you may want to look {here}(https://en.wikipedia.org/wiki/Stainless_steel#Austenitic_stainless_steel) 
 <br>
 
 [Continue](advies.md)

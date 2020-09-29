@@ -1,13 +1,13 @@
 # Gravida with a surprise
 
-## Informatie via internet
+## Information from the internet
 
 When you search the internet for 'Rodeck Shunt', a direct reference to a manufacturer is difficult to find.
 You do get a number of hits that show that the name of the shunt refers to Dr. Rodeck who developed fetal bladder shunting in the 1980's.<br>
 
 For example, see the links below and search for the name Rodeck in the document:
 
-[Medical Facts](https://www.medicalfacts.nl/2008/05/27/foetale-therapie/)
+[Medical Facts](https://www.medicalfacts.nl/2008/05/27/foetale-therapie/) (in Dutch)
 
 [Archives of Disease in Childhood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2675321/)
 
