@@ -1,10 +1,9 @@
-# Gravida scan met verrassing
+# Gravida with a surprise
 
-## Advies
+## Advice
 
-* veldsterkte 1.5 of 3T
-* geen speciale restricties in SAR nodig
-* moeder rustig laten bewegen in het magnetisch veld van de scanner
-* NB: Overleg met de radioloog op welke anatomische gebieden de focus van de diagnose zal liggen, gezien de afmetingen van de artefacten kan het nodig zijn om scans te optimaliseren voor reductie van metaal-artefacten.
-
+* Field strength 1.5 or 3T
+* No special restrictions in SAR necessary
+* Let mother move slowly in the magnetic field of the scanner
+* Note: Consult with the radiologist on which anatomical areas will be the focus of the diagnosis, given the size of the artifacts, it may be necessary to optimize scans for reduction of metal artifacts.
 

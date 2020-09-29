@@ -1,35 +1,36 @@
-# Gravida scan met verrassing
+# Gravida with a surprise
 
-## Informatie van de fabrikant.
+## Information from the manufacturer.
 
-Waarschijnlijk heb je op verschillende plaatsen op de website van **Rocket**Medical MRI-safety informatie gevonden, maar het valt niet mee om op grond daarvan snel te zeggen of er veilig gescand kan worden.
-Zie hieronder ons commentaar bij interpretatie van de verstrekte informatie.
+You have probably found information at various places on the ** Rocket ** Medical MRI safety website, but it is not easy to say quickly whether it is safe to scan.
+Please see our comments below on interpreting the information provided.
 
-<br>
-<br>
-<br>
-
-**Tip:**
-Via *Hospital Care / Delivery Suite - Labour Ward / Rocket CVS Needles & KCH™ Fetal Bladder/Pleural Catheters* vind je 
-onder *Product Description* en ook in de *datasheet* dat de catheter 'MRI Compatible' is. ![](Rocket_cath_info_1.png) 
-
-**Let op:** 
-De aanduiding *MR-compatible* is niet eenduidig, kan er zonder meer veilig gescand worden of kan dat alleen onder speciale voorwaarden? <br>
-Om deze reden worden tegenwoordig de termen **MR-safe, MR-conditional** en **MR-unsafe** gebruikt.
 
 <br>
 <br>
+<br>
 
-**Tip:**
-Via *Customer Support / Customer Information Bulletins* vind je 'Use of Rocket® KCH™ Catheters with MRI - ADVISORY BULLETIN'.
+**Hint:**
+Via *Hospital Care / Delivery Suite - Labour Ward / Rocket CVS Needles & KCH™ Fetal Bladder/Pleural Catheters* you'll find 
+under *Product Description* and also in the *datasheet* that the catheter is 'MRI Compatible'. ![](Rocket_cath_info_1.png) 
+
+**Attention:** 
+The designation * MR-compatible * is not unambiguous, can scanning be done safely or is it only possible under special conditions? <br>
+For this reason, the terms ** MR-safe, MR-conditional ** and ** MR-unsafe ** are used today.
+
+<br>
+<br>
+
+**Hint:**
+Via *Customer Support / Customer Information Bulletins* you'll find the 'Use of Rocket® KCH™ Catheters with MRI - ADVISORY BULLETIN'.
 ![](Rocket_cath_info_3.png)<br>
 
 <br>
 <br>
  
-**Vraag:** wat is jouw advies?
+**Question:** what is your advice?
 
 <br>
 <br>
 
-[Vervolg](advies.md)
+[Continue](advies.md)
