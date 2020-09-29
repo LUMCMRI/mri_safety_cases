@@ -1,27 +1,28 @@
-# Gravida scan met verrassing
+# Gravida with a surprise
 
-## Neem niets aan!
+## Do *not* assume anything!
 
-De eerder gevonden internet treffers leveren de naam *Rocket* op als een fabrikant van een shunt die in utero wordt toegepast.
+The previously found internet hits yield the name * Rocket * as a manufacturer of a shunt that is applied in utero.
 
 <br>
 
-**Let op:** Dat in het o.k. verslag met *Rodeck shunt* een *Rocket KCH Fetal Bladder Drain* bedoeld zal worden is een aanname. Wees altijd extra op je hoede wanneer er aannames in het spel zijn!
-Bovendien geldt dat de Rocket drain is ontwikkeld om de blaas van de foetus te draineren, terwijl het in deze casus om drainage van de thorax gaat.<br>
-Je zal dus bij de operateur moeten navragen of je aanname dat er een *Rocket KCH Fetal Bladder Drain* is gebruikt correct is. 
- 
+** Attention: ** That in the surgery report with * Rodeck shunt * a * Rocket KCH Fetal Bladder Drain * will be referred to is an assumption. Always be extra vigilant when assumptions are involved!
+In addition, the Rocket drain was developed to drain the bladder of the fetus, whereas in this case it is about drainage from the chest. <br>
+You will therefore have to check with the physician whether your assumption that a * Rocket KCH Fetal Bladder Drain * has been used is correct.
+
+
 <br>
 <br>
 <br> 
  
-## Meer informatie
+## More information
 
-Navraag bij de operateur levert bevestiging dat er bij beide ingrepen een *Rocket KCH Fetal Bladder Drain* is geplaatst. 
+Inquiry with the physician that performed the interventions confirms that a * Rocket KCH Fetal Bladder Drain * has been installed for both procedures.
 
-Zoek de *Rocket KCH Fetal Bladder Drain* op.<br>
-**Vraag:** Kunnen moeder en kind veilig gescand worden en zo ja, welke speciale maatregelen moeten daarbij genomen worden?
+Check out the *Rocket KCH Fetal Bladder Drain* on the internet.<br>
+** Question: ** Can mother and child be scanned safely and if so, what special measures must be taken?
 
 <br>
 <br>
 
-[Vervolg](case_part6.md)
+[Continue](case_part6.md)

@@ -1,11 +1,11 @@
-# Gravida scan met verrassing
+# Gravida with a surprise
 
 ## Informatie via internet
 
-Wanneer je zoekt op 'Rodeck Shunt' is een directe verwijzing naar een fabrikant niet zomaar te vinden.
-Wel krijg je een aantal hits waaruit blijkt dat de naam van de shunt verwijst naar Dr. Rodeck die in de jaren '80 shunting van de foetale blaas ontwikkelde.<br>
+When you search the internet for 'Rodeck Shunt', a direct reference to a manufacturer is difficult to find.
+You do get a number of hits that show that the name of the shunt refers to Dr. Rodeck who developed fetal bladder shunting in the 1980's.<br>
 
-Zie bijvoorbeeld onderstaande links en zoek evt in het document naar de naam Rodeck:
+For example, see the links below and search for the name Rodeck in the document:
 
 [Medical Facts](https://www.medicalfacts.nl/2008/05/27/foetale-therapie/)
 
@@ -16,9 +16,9 @@ Zie bijvoorbeeld onderstaande links en zoek evt in het document naar de naam Rod
 <br>
 <br>
 
-**Vraag:** welk merk/type shunt denk je dat is toegepast?
+** Question: ** What brand / type of shunt do you think has been used?
 
 <br>
 <br>
 
-[Vervolg](case_part5.md)
+[Continue](case_part5.md)
