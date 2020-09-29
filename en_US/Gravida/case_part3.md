@@ -33,35 +33,35 @@ Scheduled TA shunt placement bilaterally. After uncomplicated placement of the r
 
 *******
 
-**Vervolg verslag:**  
-*We zagen pte opnieuw poliklinisch op dd/mm (Ad ww+d).  
-Omdat nog steeds geen harde diagnose gevonden is, kwamen we overeen de procedure aan de linker zijde te herhalen.*  
+**Report number 2:**  
+*We saw the patient again on an outpatient basis on dd/mm (Ad ww + d).
+As still no firm diagnosis has been found, we agreed to repeat the procedure on the left side.*  
 
 **Shunting 2**  
-*Datum: dd-mm-jjjj  
+*Date: dd-mm-jjjj  
 AD: wwWdD  
-Indicatie: Hydro/chylothorax*  
+Indication: Hydro/chylothorax*  
 
-**Foetus xxxxxx, nnnnnnn**  
-*Hydrops foetalis: ja  
-Maternaal Mirror Syndrome: nee  
-Placenta locatie: hoog anterior  
-Type shunt: Rodeck  
-Starttijd: hh:mm  
-Zijde foetaal: links  
-Totaal aantal shunts intrauterien: 1  
-Complicatie: geen  
-procedure geslaagd: ja  
-Eindtijd: hh:mm  
-Duur: mm minuten*  
-**Conclusie:**  
-*Plaatsing contralaterale TA-shunt (links) wegens onvoldoende opknappen na unilaterale shunt rechts en nog steeds ontbreken van een harde oorzaak voor de hydrothorax. * 
+**Fetus xxxxxx, nnnnnnn**  
+*Hydrops foetalis: yes  
+Maternal Mirror Syndrome: no  
+Placenta location: high anterior  
+Shunt type: Rodeck  
+Start time: hh:mm  
+Fetal side: left  
+Total number of shunts intra-uterine: 1  
+Complications: none  
+Procedure succesful: yes  
+End time: hh:mm  
+Duration: mm minutes*  
+**Conclusion:**  
+*Contralateral TA shunt placement (left) due to insufficient refurbishment after unilateral right shunt and still lack of a hard cause for the hydrothorax. * 
 
 
-Zoek op het internet informatie over de toegepaste shunts.  
-**Vraag:** kunnen moeder en kind veilig gescand worden en zo ja, welke speciale maatregelen moeten daarbij eventueel genomen worden?
+** Question: ** Search the internet for information about the applied shunts.
+Can mother and child be scanned safely and if so, what special measures, if any, must be taken?
 
 <br>
 <br>
 
-[Vervolg](case_part4.md)
+[Continue](case_part4.md)
