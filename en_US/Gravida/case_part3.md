@@ -1,34 +1,35 @@
-# Gravida scan met verrassing
+# Gravida with a surprise
 
-## Extra informatie
-Bij navraag bleek er tweemaal een ingreep te zijn gepleegd. Hieronder vind je de verslagen.
+## Extra information
+Upon inquiry, it turned out two interventions were performed. Below you find the reports
 
 ____
-*Pte werd naar ons verwezen voor ontlasting van de hydrothorax middels shunting.*
+*Patient was referred to us for relief of the hydrothorax by means of  a shunt.*
 
 **Procedures:**  
-*Shunting Re  
-Datum: dd-mm-jjjj  
+*Shunting Right  
+Datum: dd-mm-yyyy  
 AD: wwWdD  
-Indicatie: Hydro/chylothorax* 
+Indication: Hydro/chylothorax* 
  
-**Foetus xxxxxx, nnnnnnn**  
-*Hydrops foetalis: ja  
-Maternaal Mirror Syndrome: nee  
-Medicatie foetus: atracurium, fentanyl  
-Placenta locatie: hoog anterior  
-Type shunt: Rodeck  
-Starttijd: hh:mm  
-Zijde foetaal: rechts  
-Totaal aantal shunts intrauterien: 1  
-Complicatie: geen  
-procedure geslaagd: deels  
-Eindtijd: hh:mm  
-Duur: xx minuten* 
+**Fetus xxxxxx, nnnnnnn**  
+*Hydrops foetalis: yes  
+Maternal Mirror Syndrome: no  
+Medication fetus: atracurium, fentanyl  
+Placenta location: high anterior  
+Shunt type: Rodeck  
+Start time: hh:mm  
+Fetal side: right  
+Total number of shunts intra-uterine: 1  
+Complications: none  
+Procedure succesful: partly  
+End time: hh:mm  
+Duration: xx minutes* 
  
-**Conclusie:**  
-*Voorafgaand cordocentese voor lysosomale enzym bepaling en toediening foetale medicatie (R/ Fentanyl/Atracurium)
-Gepland bilateraal plaatsen TA-shunt. Na ongecompliceerd plaatsen rechter shuntje foetus echter in niet meer te corrigeren linker zijligging gedraaid. Eerst effect van unilateraal shuntje afwachten.  *
+**Conclusion:**  
+*Prior cordocentesis for lysosomal enzyme determination and administration of fetal medication (R / Fentanyl / Atracurium)
+Scheduled TA shunt placement bilaterally. After uncomplicated placement of the right shunt however, fetus turned into left lateral position that cannot be corrected. First wait for the effect of a unilateral shunt.  *
+
 
 *******
 

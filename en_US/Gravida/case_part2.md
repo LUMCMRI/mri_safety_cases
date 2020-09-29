@@ -1,15 +1,15 @@
-# Gravida scan met verrassing
+# Gravida with a surprise
 
-## Deel 2
+## Part 2
 
-Hieronder vind je de digitale vragenlijst over mogelijke contra-indicaties en de aanvraag van het MRI-onderzoek.
+Below you find the digital questionnaire about possible contraindications and the application for the MRI examination.
 
 ![](Vragenlijst.png)
 ![](Aanvraag.png)
 
-**Vraag:** Waar zie je een aanwijzing voor een mogelijk implantaat? 
+**Question:** Can you spot a clue for a possible implant? 
 
 <br>
 <br>
 
-[Vervolg](case_part3.md)
+[Continue](case_part3.md)

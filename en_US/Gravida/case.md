@@ -1,16 +1,16 @@
-# Gravida scan met verrassing
+# Gravida with a surprise
 
-## Inleiding
+## Introduction
 
-Je wordt gebeld door de MRI laboranten. Zij hebben een zwangere mevrouw in de scanner liggen om een scan van de foetus te maken.
-Op de scout/survey zien zij een viertal artefacten en zij vragen zich af of moeder en kind wel veilig gescand kunnen worden.
+You are called by the MRI techs. They have a pregnant lady in the scanner to make a scan of the fetus.
+On the scout/survey they see four artifacts and they wonder whether mother and child can be scanned safely.
 ![](survey_all.png)
 
-**Vraag:** Wat is je eerste reactie? Kan deze patiënt gescand worden? 
+**Question:** What is your first respons? Can they safely scan mother and child? 
 
 <br>
 <br>
 
-[Vervolg](case_part2.md)
+[Continue](case_part2.md)
 
 
