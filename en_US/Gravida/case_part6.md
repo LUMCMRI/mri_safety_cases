@@ -10,9 +10,7 @@ Please take note of what the Product Description says about the materials applie
 Via *Products / Delivery Suite - Labour Ward / KCH™ Fetal Bladder, Pleural Catheters & Rocket CVS Needles/ R57405 Rocket KCH Fetal Bladder Catheter * you'll find 
 under *Learn More* the product description that tells you the catheter is 'MRI UNSPECIFIED'. ![](Rocket_cath_info_1_2020.png) 
 
-<br>
-<br>
-<br>
+
 
 **Attention:** The designation * MR UNSPECIFIED * only helps in the sense that we now know we are not dealing with the internationally accepted classification
  ** MR-safe, MR-conditional ** and ** MR-unsafe **.
