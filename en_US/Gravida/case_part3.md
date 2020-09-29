@@ -4,6 +4,7 @@
 Upon inquiry, it turned out two interventions were performed. Below you find the reports
 
 ____
+**Report number 1:**  
 *Patient was referred to us for relief of the hydrothorax by means of  a shunt.*
 
 **Procedures:**  
@@ -57,9 +58,11 @@ Duration: mm minutes*
 **Conclusion:**  
 *Contralateral TA shunt placement (left) due to insufficient refurbishment after unilateral right shunt and still lack of a hard cause for the hydrothorax. * 
 
+*******
 
-** Question: ** Search the internet for information about the applied shunts.
-Can mother and child be scanned safely and if so, what special measures, if any, must be taken?
+
+Search the internet for information about the applied shunts.
+** Question: ** Can mother and child be scanned safely and if so, what special measures, if any, must be taken?
 
 <br>
 <br>
