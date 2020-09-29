@@ -61,7 +61,7 @@ Duration: mm minutes*
 *******
 
 
-Search the internet for information about the applied shunts.
+Search the internet for information about the applied shunts.<br>
 ** Question: ** Can mother and child be scanned safely and if so, what special measures, if any, must be taken?
 
 <br>
