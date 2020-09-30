@@ -31,7 +31,7 @@ under *Learn More* the product description that tells you the catheter is 'MRI U
 
 **Hint:**
 There's different types of stainless steel and not all of those are MRI-Safe. If you want to learn more about (Austenitic) stainless steel 
-you may want to look {here}(https://en.wikipedia.org/wiki/Stainless_steel#Austenitic_stainless_steel) 
+you may want to look [here](https://en.wikipedia.org/wiki/Stainless_steel#Austenitic_stainless_steel) 
 <br>
 
 [Continue](advies.md)
