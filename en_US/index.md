@@ -11,12 +11,10 @@ For some cases the required information is readily provided, for other cases you
 to visit the iternet to retrieve MRI-safety information, for example from 
 [MRISafety.com](http://mrisafety.com), or from the manufacturer's website.
 No doubt you will sometimes find this can be quite a pain, similar to what it can be in practice.
+<br> 
 In some cases you may find a surprise. It is not that we want to trap you, it's 
 about cases that surprised us to and we experienced as educational. 
 ![](Blij_bekkie.png)
-
-In some cases you may find a surprise. It is not that we want to trap you, it's 
-about cases that surprised us to and we experienced as educational. 
 
 
 

@@ -2,7 +2,7 @@
 
 ## Advice
 
-
+<br>
 #### On the stent
 If all went well you found that these stents can be safely scanned under the following conditions:
 
@@ -26,7 +26,7 @@ For all scanners the spatial gradient is lower than 25 T/m and therefore not sta
 <br>
 <br>
 
-###On the hip prosthesis
+####On the hip prosthesis
 As far as hip prostheses go: when recently placed they are, in general, not contra-indicated for MRI. For orientation one may visit [MRISafety.com](http://www.mrisafety.com), 
 search The List for *hip* and sort on *status*. Also, one may find the safety info *Orthopedic Implants, Materials, and Devices* of interest, including the papers it refers to.
 
