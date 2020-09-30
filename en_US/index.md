@@ -13,8 +13,7 @@ to visit the iternet to retrieve MRI-safety information, for example from
 No doubt you will sometimes find this can be quite a pain, similar to what it can be in practice.
 ![](Blij_bekkie.png)
 
-<br>
-<br>
+
 In some cases you may find a surprise. It is not that we want to trap you, it's 
 about cases that surprised us to and we experienced as educational. 
 
