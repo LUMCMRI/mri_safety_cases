@@ -18,6 +18,10 @@ are there any special conditions or limitations required or formulated by the ma
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 **Hint:** Check out this stent on the manufacturer's website and on 
 [MRISafety.com](http://www.mrisafety.com) and check what conditions should be met.

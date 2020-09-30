@@ -21,4 +21,6 @@ if applicable, under what conditions?
 
 <br>
 <br>
+<br>
+<br>
 [Continue](case_part2.md)

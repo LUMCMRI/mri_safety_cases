@@ -19,4 +19,8 @@ manufacturer's website to get the information on MRI safety conditions.
 
 <br>
 <br>
-[Continue](case_part4.md)
+<br>
+<br>
+<br>
+<br>
+[Advice](case_part4.md)

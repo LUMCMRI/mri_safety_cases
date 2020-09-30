@@ -19,5 +19,9 @@ placed in different coronaries.
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 [Continue](case_part3.md)
 

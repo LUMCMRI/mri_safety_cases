@@ -16,10 +16,14 @@ The operation report states that part of a vein taken from the leg was used to r
 <br>
 <br>
 <br>
+<br>
+<br>
 
 **Hint:** You may want to reflect on, for example, SAR limitations, fieldstrength, the intended use of the stent and where it is applied.
 
 
+<br>
+<br>
 <br>
 <br>
 

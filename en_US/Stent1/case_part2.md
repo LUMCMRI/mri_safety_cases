@@ -14,7 +14,6 @@ interpretations or assumptions are made by any person involved in providing info
 <br>
 <br>
 <br>
-<br>
 
 **Question:** Do you now have adequate information to decide whether this patient can be safely scanned?
 Did you find any restrictions or MRI-safety conditions?

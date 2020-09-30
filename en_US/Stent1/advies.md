@@ -25,4 +25,8 @@ one should stick to the more strict regime because although the anatomical locat
 * Maximum scan time 15 minutes.
 * Consider whether the SAR limitation is less restrictive on 1.5T as compared to 3T.
 * Consider whether imaging artefacts may hamper diagnosis due to the stent location. If so, 1.5T may be favourable.
+<br>
+<br>
+<br>
+<br>
 

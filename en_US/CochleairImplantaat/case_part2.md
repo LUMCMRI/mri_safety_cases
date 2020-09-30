@@ -10,10 +10,12 @@ If all went well you found several documents about this implant.
 
 ![](cochleair_2.png)
 
+<br>
+<br>
+
 **Question:** Above you find the information for Canada (left) and The Netherlands (right)
 Suppose you work in The Netherlands, what would be your advice?
 
-<br>
 <br>
 
 [Advice](advies.md)
