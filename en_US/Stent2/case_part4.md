@@ -16,13 +16,10 @@ This makes the advice for the stent pretty easy:
 * Maximum SAR is 2 W/kg.
 
 <br>
-<br>
 
 **Remark:** The radiology department that provided this case uses Philips 1.5 or 3T scanners of different generations. 
 For all scanners the spatial gradient is lower than 25 T/m and therefore not stated in the restrictions that should be applied.
 
-<br>
-<br>
 <br>
 <br>
 
