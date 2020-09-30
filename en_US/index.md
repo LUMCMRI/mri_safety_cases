@@ -11,6 +11,8 @@ For some cases the required information is readily provided, for other cases you
 to visit the iternet to retrieve MRI-safety information, for example from 
 [MRISafety.com](http://mrisafety.com), or from the manufacturer's website.
 No doubt you will sometimes find this can be quite a pain, similar to what it can be in practice.
+In some cases you may find a surprise. It is not that we want to trap you, it's 
+about cases that surprised us to and we experienced as educational. 
 ![](Blij_bekkie.png)
 
 In some cases you may find a surprise. It is not that we want to trap you, it's 
@@ -46,9 +48,9 @@ Paul de Bruin & Wouter Teeuwisse
 1. [Neurovascular Clip](Clip/case.md)
 
 
-## Colofon
+## Disclaimer
 
-* Comments are appreciated, you can send those to w.m.teeuwisse@lumc.nl
+* Comments are most welcome and appreciated, please send those to w.m.teeuwisse@lumc.nl
 * These cases are analysed according to local protocol. We present them for training purposes only and not as guidelines.
 
 
