@@ -2,7 +2,7 @@
 
 ## Part 3
 
-Hm Allthough the number of MRI examinations performed worldwide by far outnumbers the number of reports on 
+Hm. Allthough the number of MRI examinations performed worldwide by far outnumbers the number of reports on 
 tattoo-related adverse effects sometimes Tattoos proove treacherous. 
 
 
