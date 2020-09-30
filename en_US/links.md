@@ -27,5 +27,7 @@
 1. Spin Dynamics: Basics of Nuclear Magnetic Resonance, *Second Edition*,
    Malcom H. Levitt, 2008.
 1. IEC 60601-2-33 (This document is not freely available and therefore not attached)
+<br>
+<br>
 
 
